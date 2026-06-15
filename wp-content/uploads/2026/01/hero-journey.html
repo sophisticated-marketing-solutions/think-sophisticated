@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hero Journey</title>
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Lucide -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Tailwind config (same tokens) -->
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: { 900: "#0f172a" },
+            sms: {
+              yellow: "#ffe601",
+              blue: "#006cbc"
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      margin: 0;
+      background: transparent;
+      font-family: Inter, system-ui, sans-serif;
+    }
+
+    .device-icon {
+      opacity: 0.3;
+      transition: all 0.5s ease;
+      color: #e5e7eb;
+    }
+
+    .device-active {
+      opacity: 1;
+      transform: scale(1.1);
+      color: #ffe601;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- HERO RIGHT (MATCHES ORIGINAL) -->
+  <div class="bg-navy-900 rounded-xl p-8 shadow-2xl relative border border-white/10 h-[350px] flex flex-col justify-center items-center">
+
+    <!-- cubes texture (EXACT) -->
+    <div class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')]"></div>
+
+    <h3 class="relative text-gray-400 text-xs font-bold uppercase mb-8 tracking-widest">
+      The User Journey
+    </h3>
+
+    <!-- devices -->
+    <div class="relative flex items-center gap-4 w-full justify-center">
+
+      <div id="device-1" class="device-icon flex flex-col items-center">
+        <i data-lucide="smartphone" class="w-10 h-10 mb-2"></i>
+        <span class="text-[10px]">Mobile</span>
+      </div>
+
+      <i data-lucide="arrow-right" class="w-6 h-6 text-gray-600"></i>
+
+      <div id="device-2" class="device-icon flex flex-col items-center">
+        <i data-lucide="monitor" class="w-12 h-12 mb-2"></i>
+        <span class="text-[10px]">Desktop</span>
+      </div>
+
+      <i data-lucide="arrow-right" class="w-6 h-6 text-gray-600"></i>
+
+      <div id="device-3" class="device-icon flex flex-col items-center">
+        <i data-lucide="tv" class="w-16 h-16 mb-2"></i>
+        <span class="text-[10px]">Connected TV</span>
+      </div>
+
+    </div>
+
+    <!-- targeting -->
+    <div class="relative mt-8 bg-sms-blue/20 px-4 py-2 rounded-full border border-sms-blue/50">
+      <p id="targeting-text" class="text-sms-yellow text-xs font-mono">
+        Targeting: IP Address Match...
+      </p>
+    </div>
+
+  </div>
+
+  <!-- SCRIPT -->
+  <script>
+    lucide.createIcons();
+
+    const devices = [
+      document.getElementById("device-1"),
+      document.getElementById("device-2"),
+      document.getElementById("device-3")
+    ];
+
+    const phrases = [
+      "Targeting: IP Address Match...",
+      "Targeting: Household Income > $150k...",
+      "Targeting: In-Market for SaaS..."
+    ];
+
+    const text = document.getElementById("targeting-text");
+    let step = 0;
+
+    setInterval(() => {
+      devices.forEach(d => d.classList.remove("device-active"));
+      devices[step].classList.add("device-active");
+      text.textContent = phrases[step];
+      step = (step + 1) % devices.length;
+    }, 2000);
+  </script>
+
+</body>
+</html>

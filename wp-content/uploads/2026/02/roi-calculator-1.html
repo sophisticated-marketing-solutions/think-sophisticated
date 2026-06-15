@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROI Calculator</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    input[type=range] {
+  -webkit-appearance: none;
+  width: 100%;
+}
+
+/* Chrome, Edge, Safari */
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 23px;          /* ⬅ bigger */
+  width: 23px;           /* ⬅ bigger */
+  border-radius: 50%;
+  background: #006cbc;
+  cursor: pointer;
+  margin-top: -10px;     /* ⬅ centers on 4px track */
+}
+
+/* Track */
+input[type=range]::-webkit-slider-runnable-track {
+  height: 4px;
+  background: #e5e7eb;
+  border-radius: 2px;
+}
+
+  </style>
+</head>
+
+<body class="bg-white p-6">
+  <section class="max-w-2xl mx-auto">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="space-y-5">
+        <div>
+          <label class="text-sm font-bold text-gray-600">
+            Monthly Ad Spend:
+            <span id="spendDisplay" class="text-blue-600">$5,000</span>
+          </label>
+          <input id="spendInput" type="range" min="1000" max="50000" step="500" value="5000" class="w-full">
+        </div>
+
+        <div>
+          <label class="text-sm font-bold text-gray-600">
+            CPC:
+            <span id="cpcDisplay" class="text-blue-600">$5.00</span>
+          </label>
+          <input id="cpcInput" type="range" min="1" max="20" step="0.5" value="5" class="w-full">
+        </div>
+
+        <div>
+          <label class="font-bold text-sm">
+            Conversion Rate:
+            <span id="convDisplay" class="text-blue-600">2%</span>
+          </label>
+          <input id="convInput" type="range" min="1" max="10" step="0.5" value="2" class="w-full">
+        </div>
+      </div>
+
+      <div class="bg-gray-50 p-5 rounded-lg border">
+        <div class="mb-4">
+          <div class="text-sm font-bold uppercase text-[rgb(107_114_128)]">Projected Leads</div>
+          <div id="leadsResult" class="text-[36px] font-bold text-[rgb(0_82_142)]">20</div>
+        </div>
+        <div>
+  <div class="text-sm font-bold uppercase text-[rgb(107_114_128)]">Cost Per Lead</div>
+  
+  <div id="cplResult" class="text-[36px] font-bold text-green-600">$250</div>
+
+  <div style="
+    color: rgb(156,163,175);
+    font-size: 14px;
+    margin-top: 16px;
+  ">
+    *Estimates based on industry averages.
+  </div>
+</div>
+
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const spend = document.getElementById('spendInput');
+    const cpc = document.getElementById('cpcInput');
+    const conv = document.getElementById('convInput');
+
+    const spendD = document.getElementById('spendDisplay');
+    const cpcD = document.getElementById('cpcDisplay');
+    const convD = document.getElementById('convDisplay');
+    const leadsR = document.getElementById('leadsResult');
+    const cplR = document.getElementById('cplResult');
+
+    function calc() {
+      const s = +spend.value;
+      const c = +cpc.value;
+      const r = +conv.value / 100;
+
+      spendD.textContent = '$' + s.toLocaleString();
+      cpcD.textContent = '$' + c.toFixed(2);
+      convD.textContent = (r * 100).toFixed(1) + '%';
+
+      const clicks = s / c;
+      const leads = Math.floor(clicks * r);
+      const cpl = leads ? s / leads : 0;
+
+      leadsR.textContent = leads;
+      cplR.textContent = '$' + cpl.toFixed(2);
+    }
+
+    spend.oninput = cpc.oninput = conv.oninput = calc;
+    calc();
+  </script>
+</body>
+</html>
