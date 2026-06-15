@@ -1,0 +1,2000 @@
+# Translation of Plugins - Jetpack VaultPress Backup - Stable (latest release) in Lao
+# This file is distributed under the same license as the Plugins - Jetpack VaultPress Backup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-25 13:58:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: lo_LA\n"
+"Project-Id-Version: Plugins - Jetpack VaultPress Backup - Stable (latest release)\n"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:454
+msgid "Failed to update interstitials state."
+msgstr "ອັບເດດສະຖານະໜ້າໂຄສະນາຂັ້ນລະຫວ່າງບໍ່ສຳເລັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:179
+msgid "Interstitial state for the product. True means that the user has seen the interstitial for the product."
+msgstr "ສະຖານະໜ້າໂຄສະນາຂັ້ນລະຫວ່າງສຳລັບຜະລິດຕະພັນ. True ໝາຍຄວາມວ່າຜູ້ໃຊ້ໄດ້ເຫັນໜ້າໂຄສະນາຂັ້ນລະຫວ່າງສຳລັບຜະລິດຕະພັນແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:102
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:175
+msgid "Key-value pairs of product slugs and their interstitial states."
+msgstr "ຄູ່ຄ່າຫຼັກ (Key-value) ຂອງຜະລິດຕະພັນ ແລະ ສະຖານະໜ້າໂຄສະນາຂັ້ນລະຫວ່າງຂອງພວກມັນ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:144
+msgid "Powerful and flexible video hosting."
+msgstr "ບໍລິການໂຮສຕິ້ງວິດີໂອທີ່ມີປະສິດທິພາບ ແລະ ຢືດຢຸ່ນ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:112
+msgid "Clear, concise, and actionable analysis of your site performance."
+msgstr "ການວິເຄາະປະສິດທິພາບເວັບໄຊຂອງທ່ານທີ່ຊັດເຈນ, ກະທັດຮັດ ແລະ ສາມາດນຳໄປໃຊ້ໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-social.php:108
+msgid "Auto‑share your posts to social networks and track engagement in one place."
+msgstr "ແບ່ງປັນໂພສຂອງທ່ານໄປຫາເຄືອຂ່າຍໂຊຊຽວໂດຍອັດຕະໂນມັດ ແລະ ຕິດຕາມການມີສ່ວນຮ່ວມໄດ້ໃນບ່ອນດຽວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:124
+msgid "Instantly deliver the most relevant results to your visitors."
+msgstr "ສົ່ງມອບຜົນການຄົ້ນຫາທີ່ກ່ຽວຂ້ອງທີ່ສຸດໃຫ້ກັບຜູ້ເຂົ້າຊົມຂອງທ່ານໃນທັນທີ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:76
+msgid "Around‑the‑clock web application firewall, and automated malware scanning."
+msgstr "ໄຟວໍແອັບພລິເຄຊັນເວັບຕະຫຼອດ 24 ຊົ່ວໂມງ ແລະ ການສະແກນມັນແວ (Malware) ແບບອັດຕະໂນມັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:231
+msgid "Turn your ideas into ready‑to‑publish content at lightspeed."
+msgstr "ປ່ຽນຄວາມຄິດຂອງທ່ານໃຫ້ເປັນເນື້ອຫາທີ່ພ້ອມເຜີຍແຜ່ດ້ວຍຄວາມໄວແສງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:98
+msgid "All of the tools you need to grow your business."
+msgstr "ເຄື່ອງມືທັງໝົດທີ່ທ່ານຕ້ອງການເພື່ອຂະຫຍາຍທຸລະກິດຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:117
+msgid "Improves your site speed and performance."
+msgstr "ປັບປຸງຄວາມໄວ ແລະ ປະສິດທິພາບຂອງເວັບໄຊຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php:102
+msgid "Automatically clear spam from comments and forms."
+msgstr "ລ້າງສະແປມຈາກຄຳຄິດເຫັນ ແລະ ແບບຟອມໂດຍອັດຕະໂນມັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:129
+msgid "Real-time backups save every change, and one-click restores get you back online quickly."
+msgstr "ການສຳຮອງຂໍ້ມູນແບບລຽວທາມຈະບັນທຶກທຸກການປ່ຽນແປງ, ແລະ ການກູ້ຄືນໃນຄລິກດຽວຈະຊ່ວຍໃຫ້ທ່ານກັບມາອອນລາຍໄດ້ຢ່າງວ່ອງໄວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-user-account-status.php:33
+msgid "Your WordPress.com email is also used by another user account. This won’t affect functionality but may cause confusion about which user account is connected."
+msgstr "ອີເມລ WordPress.com ຂອງເຈົ້າກຳລັງຖືກໃຊ້ໂດຍບັນຊີຜູ້ໃຊ້ອື່ນນຳ. ສິ່ງນີ້ຈະບໍ່ສົ່ງຜົນກະທົບຕໍ່ການເຮັດວຽກ ແຕ່ອາດເຮັດໃຫ້ເກີດຄວາມສັບສົນວ່າບັນຊີຜູ້ໃຊ້ໃດທີ່ເຊື່ອມຕໍ່ຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:247
+msgid "Account protection"
+msgstr "ການປົກປ້ອງບັນຊີ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:655
+msgid "Log in with another WordPress.com account"
+msgstr "ເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີ WordPress.com ອື່ນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:949
+msgid "Unable to unlink the connection owner."
+msgstr "ບໍ່ສາມາດຍົກເລີກການເຊື່ອມໂຍງເຈົ້າຂອງການເຊື່ອມຕໍ່ໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-users-connection-admin.php:116
+msgid "Connecting a WordPress.com account unlocks Jetpack’s full suite of features including secure logins."
+msgstr "ການເຊື່ອມຕໍ່ບັນຊີ WordPress.com ຈະປົດລັອກຟີເຈີທັງໝົດຂອງ Jetpack ລວມທັງການເຂົ້າສູ່ລະບົບທີ່ປອດໄພ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-users-connection-admin.php:80
+msgid "This user has connected their WordPress.com account."
+msgstr "ຜູ້ໃຊ້ນີ້ໄດ້ເຊື່ອມຕໍ່ບັນຊີ WordPress.com ຂອງເຂົາເຈົ້າແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-users-connection-admin.php:58
+msgid "WordPress.com account"
+msgstr "ບັນຊີ WordPress.com"
+
+#. translators: placeholders are the theme name and version number. Example:
+#. "The installed version of Jetpack (1.2.3) has a known security
+#. vulnerability."
+#: jetpack_vendor/automattic/jetpack-protect-models/src/class-threat-model.php:218
+msgid "The installed version of %1$s (%2$s) has a known security vulnerability."
+msgid_plural "The installed version of %1$s (%2$s) has known security vulnerabilities."
+msgstr[0] "ເວີຊັນຂອງ %1$s (%2$s) ທີ່ຕິດຕັ້ງຢູ່ມີຊ່ອງໂຫວ່ດ້ານຄວາມປອດໄພທີ່ລະບຸໄດ້."
+
+#. translators: placeholder is the version number. Example: "Vulnerable
+#. WordPress (version 1.2.3)"
+#: jetpack_vendor/automattic/jetpack-protect-models/src/class-threat-model.php:197
+msgid "Vulnerable WordPress (version %s)"
+msgstr "WordPress ທີ່ມີຊ່ອງໂຫວ່ (ເວີຊັນ %s)"
+
+#. translators: placeholders are the theme name and version number. Example:
+#. "Vulnerable theme: Jetpack (version 1.2.3)"
+#: jetpack_vendor/automattic/jetpack-protect-models/src/class-threat-model.php:191
+msgid "Vulnerable theme: %1$s (version %2$s)"
+msgstr "ທີມທີ່ມີຊ່ອງໂຫວ່: %1$s (ເວີຊັນ %2$s)"
+
+#. translators: placeholders are the theme name and version number. Example:
+#. "Vulnerable theme: Jetpack (version 1.2.3)"
+#: jetpack_vendor/automattic/jetpack-protect-models/src/class-threat-model.php:185
+msgid "Vulnerable plugin: %1$s (version %2$s)"
+msgstr "ປລັກອິນທີ່ມີຊ່ອງໂຫວ່: %1$s (ເວີຊັນ %2$s)"
+
+#. translators: %s is the product_slug
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:343
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:377
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:410
+msgid "The product slug %s does not have an associated class handler."
+msgstr "Product slug %s ບໍ່ມີຕົວຈັດການຄລາດ (class handler) ທີ່ກ່ຽວຂ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:262
+msgid "The product argument must be an array."
+msgstr "ອາຄິວເມນຂອງຜະລິດຕະພັນຕ້ອງເປັນອາເຣ (array)."
+
+#. translators: %s is the product_slug, it should Not be translated.
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:237
+msgid "The specified product argument %s is an invalid product."
+msgstr "ອາຄິວເມນຂອງຜະລິດຕະພັນ %s ທີ່ລະບຸເປັນຜະລິດຕະພັນທີ່ບໍ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:47
+msgid "Array of Product slugs"
+msgstr "ອາເຣຂອງ Product slugs"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:35
+msgid "Comma-separated list of product slugs that should be retrieved."
+msgstr "ລາຍຊື່ product slugs ທີ່ຂັ້ນດ້ວຍຈຸດທີ່ຄວນຖືກດຶງຂໍ້ມູນມາ."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:62
+msgid "Context for the Full Sync"
+msgstr "ບໍລິບົດສຳລັບການຊິງຄ໌ຂໍ້ມູນທັງໝົດ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/traits/trait-wpcom-rest-api-proxy-request.php:118
+msgid "An unknown error occurred."
+msgstr "ເກີດຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/traits/trait-wpcom-rest-api-proxy-request.php:85
+msgid "Please connect your user account to WordPress.com"
+msgstr "ກະລຸນາເຊື່ອມຕໍ່ບັນຊີຜູ້ໃຊ້ຂອງທ່ານກັບ WordPress.com"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:939
+msgid "Invalid Parameter"
+msgstr "ພາລາມິເຕີບໍ່ຖືກຕ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:969
+msgid "Was not able to unlink the user. Please try again."
+msgstr "ບໍ່ສາມາດຍົກເລີກການເຊື່ອມໂຍງຜູ້ໃຊ້ໄດ້. ກະລຸນາລອງໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-newsletter.php:127
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-related-posts.php:127
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-site-accelerator.php:127
+msgid "Draw your readers from one post to another, increasing overall traffic on your site"
+msgstr "ດຶງດູດຜູ້ອ່ານຂອງທ່ານຈາກໂພສໜຶ່ງໄປຫາອີກໂພສໜຶ່ງ, ເພີ່ມການເຂົ້າຊົມໂດຍລວມໃນເວັບໄຊຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-newsletter.php:118
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-related-posts.php:118
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-site-accelerator.php:118
+msgid "Draw your readers from one post to another"
+msgstr "ດຶງດູດຜູ້ອ່ານຂອງທ່ານຈາກໂພສໜຶ່ງໄປຫາອີກໂພສໜຶ່ງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:85
+msgctxt "Growth Product Feature"
+msgid "Increase earnings with WordAds"
+msgstr "ເພີ່ມລາຍໄດ້ດ້ວຍ WordAds"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:84
+msgctxt "Growth Product Feature"
+msgid "Accept payments with PayPal"
+msgstr "ຮັບການຊຳລະເງິນດ້ວຍ PayPal"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:83
+msgctxt "Growth Product Feature"
+msgid "Earn more from your content"
+msgstr "ສ້າງລາຍໄດ້ເພີ່ມເຕີມຈາກເນື້ອຫາຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:82
+msgctxt "Growth Product Feature"
+msgid "Unlimited subscriber imports"
+msgstr "ນຳເຂົ້າຜູ້ຕິດຕາມໄດ້ບໍ່ຈຳກັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:81
+msgctxt "Growth Product Feature"
+msgid "Jetpack Stats (10K site views, upgradeable)"
+msgstr "Jetpack Stats (ຍອດເບິ່ງ 10K, ສາມາດອັບເກຣດໄດ້)"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:80
+msgctxt "Growth Product Feature"
+msgid "Jetpack Social"
+msgstr "Jetpack Social"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:70
+msgid "Essential tools to help you grow your audience, track visitor engagement, and turn leads into loyal customers and advocates."
+msgstr "ເຄື່ອງມືທີ່ຈຳເປັນເພື່ອຊ່ວຍທ່ານສ້າງກຸ່ມຜູ້ອ່ານ, ຕິດຕາມການມີສ່ວນຮ່ວມຂອງຜູ້ເຂົ້າຊົມ ແລະ ປ່ຽນກຸ່ມເປົ້າໝາຍໃຫ້ກາຍເປັນລູກຄ້າທີ່ຊື່ສັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-complete.php:91
+msgctxt "Complete Product Feature"
+msgid "Newsletter and monetization tools"
+msgstr "ຈົດໝາຍຂ່າວ ແລະ ເຄື່ອງມືສ້າງລາຍໄດ້"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-growth.php:61
+msgid "Grow and track your audience effortlessly."
+msgstr "ສ້າງ ແລະ ຕິດຕາມກຸ່ມຜູ້ອ່ານຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-complete.php:90
+msgctxt "Complete Product Feature"
+msgid "CRM Entrepreneur"
+msgstr "CRM ສຳລັບຜູ້ປະກອບການ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-complete.php:89
+msgctxt "Complete Product Feature"
+msgid "Stats (100K site views, upgradeable)"
+msgstr "ສະຖິຕິ (ຍອດເບິ່ງ 100K, ສາມາດອັບເກຣດໄດ້)"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-complete.php:70
+msgid "Get the full Jetpack suite with real-time security tools, improved site performance, and tools to grow your business."
+msgstr "ຮັບຊຸດ Jetpack ແບບຄົບຊຸດ ພ້ອມເຄື່ອງມືຄວາມປອດໄພແບບທັນທີ, ເພີ່ມປະສິດທິພາບເວັບໄຊ ແລະ ເຄື່ອງມືເພື່ອຂະຫຍາຍທຸລະກິດຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-complete.php:61
+msgid "The ultimate tool kit for best-in-class websites."
+msgstr "ຊຸດເຄື່ອງມືທີ່ດີທີ່ສຸດສຳລັບເວັບໄຊລະດັບແຖວໜ້າ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:311
+msgid "Boost your website performance by merging and compressing JavaScript and CSS files, reducing site loading time and number of requests."
+msgstr "ເພີ່ມປະສິດທິພາບເວັບໄຊຂອງທ່ານໂດຍການຮວມ ແລະ ບີບອັດໄຟລ໌ JavaScript ແລະ CSS, ຫຼຸດເວລາການໂຫຼດເວັບໄຊ ແລະ ຈຳນວນຄຳຮ້ອງຂໍ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:309
+msgid "Concatenate JS and CSS"
+msgstr "ຮວມໄຟລ໌ JS ແລະ CSS"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:259
+msgid "Optimizes lazy-loaded images by dynamically serving perfectly sized images for each device."
+msgstr "ປັບແຕ່ງຮູບພາບແບບ lazy-loaded ໂດຍການສະແດງຮູບພາບທີ່ມີຂະໜາດເໝາະສົມສຳລັບແຕ່ລະອຸປະກອນໂດຍອັດຕະໂນມັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:257
+msgid "Image CDN Auto-Resize Lazy Images"
+msgstr "Image CDN ປັບຂະໜາດຮູບພາບ Lazy Images ອັດຕະໂນມັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:246
+msgid "Fine-tune image quality settings to your liking."
+msgstr "ປັບແຕ່ງການຕັ້ງຄ່າຄຸນນະພາບຮູບພາບຕາມທີ່ທ່ານຕ້ອງການ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:244
+msgid "Image CDN Quality Settings"
+msgstr "ການຕັ້ງຄ່າຄຸນນະພາບ Image CDN"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:231
+msgid "Page Cache"
+msgstr "ແຄຊ໌ໜ້າເວັບ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:206
+msgid "Get access to your historical performance scores and see advanced Core Web Vitals data."
+msgstr "ເຂົ້າເຖິງຄະແນນປະສິດທິພາບຍ້ອນຫຼັງຂອງທ່ານ ແລະ ເບິ່ງຂໍ້ມູນ Core Web Vitals ຂັ້ນສູງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:204
+msgid "Historical performance scores"
+msgstr "ຄະແນນປະສິດທິພາບຍ້ອນຫຼັງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:172
+msgid "Manual"
+msgstr "ດ້ວຍຕົນເອງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:233
+msgid "Page caching speeds up load times by storing a copy of each web page on the first visit, allowing subsequent visits to be served instantly. This reduces server load and improves user experience by delivering content faster, without waiting for the page to be generated again."
+msgstr "ການເຮັດແຄຊ໌ໜ້າເວັບ (Page caching) ຊ່ວຍໃຫ້ການໂຫຼດໄວຂຶ້ນໂດຍການເກັບສຳເນົາຂອງແຕ່ລະໜ້າເວັບໃນການເຂົ້າຊົມຄັ້ງທຳອິດ, ເຮັດໃຫ້ການເຂົ້າຊົມຄັ້ງຕໍ່ໄປສາມາດສະແດງຜົນໄດ້ທັນທີ. ນີ້ຈະຊ່ວຍຫຼຸດພາລະຂອງເຊີບເວີ ແລະ ປັບປຸງປະສົບການຜູ້ໃຊ້ໂດຍການສົ່ງເນື້ອຫາໄດ້ໄວຂຶ້ນ ໂດຍບໍ່ຕ້ອງຖ້າໃຫ້ສ້າງໜ້າເວັບໃໝ່ອີກຄັ້ງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:162
+msgid "Auto CSS Optimization"
+msgstr "ການປັບແຕ່ງ CSS ອັດຕະໂນມັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:277
+msgid "High request capacity *"
+msgstr "ຄວາມສາມາດໃນການຮອງຮັບຄຳຮ້ອງຂໍສູງ *"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:282
+msgid "Optimize your titles for better performance"
+msgstr "ປັບແຕ່ງຫົວຂໍ້ຂອງທ່ານເພື່ອປະສິດທິພາບທີ່ດີຂຶ້ນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:281
+msgid "Generate images with one-click"
+msgstr "ສ້າງຮູບພາບດ້ວຍການຄລິກພຽງຄັ້ງດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:280
+msgid "Make your content easier to read"
+msgstr "ເຮັດໃຫ້ເນື້ອຫາຂອງທ່ານອ່ານງ່າຍຂຶ້ນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:279
+msgid "Easily refine content to your liking"
+msgstr "ປັບແຕ່ງເນື້ອຫາຕາມຄວາມຕ້ອງການຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:153
+msgid "Stunning-quality, ad-free video in the WordPress Editor"
+msgstr "ວິດີໂອຄຸນນະພາບດີເລີດ ແລະ ບໍ່ມີໂຄສະນາໃນຕົວແກ້ໄຂ WordPress"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:121
+msgid "With Jetpack Stats, you don’t need to be a data scientist to see how your site is performing, understand your visitors, and grow your site."
+msgstr "ດ້ວຍ Jetpack Stats, ທ່ານບໍ່ຈຳເປັນຕ້ອງເປັນນັກວິທະຍາສາດຂໍ້ມູນກໍສາມາດເບິ່ງປະສິດທິພາບເວັບໄຊ, ເຂົ້າໃຈຜູ້ເຂົ້າຊົມ ແລະ ພັດທະນາເວັບໄຊຂອງທ່ານໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-social.php:117
+msgid "Grow your following by sharing your content across social media automatically."
+msgstr "ສ້າງຖານຜູ້ຕິດຕາມໂດຍການແບ່ງປັນເນື້ອຫາຂອງທ່ານໄປຍັງໂຊຊຽວມີເດຍໂດຍອັດຕະໂນມັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:167
+msgid "Protect your site from bad actors and malware 24/7. Clean up security vulnerabilities with one click."
+msgstr "ປົກປ້ອງເວັບໄຊຂອງທ່ານຈາກຜູ້ບໍ່ຫວັງດີ ແລະ ມັນແວຕະຫຼອດ 24 ຊົ່ວໂມງ. ແກ້ໄຂຊ່ອງໂຫວ່ດ້ານຄວາມປອດໄພດ້ວຍການຄລິກພຽງຄັ້ງດຽວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:158
+msgid "Guard against malware and bad actors 24/7"
+msgstr "ປ້ອງກັນມັນແວ ແລະ ຜູ້ບໍ່ຫວັງດີຕະຫຼອດ 24 ຊົ່ວໂມງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:107
+msgid "Build better relationships with your customers and grow your business."
+msgstr "ສ້າງສາຍສຳພັນທີ່ດີຂຶ້ນກັບລູກຄ້າ ແລະ ຂະຫຍາຍທຸລະກິດຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:96
+msgid "Craft stunning content, boost your subscriber base, and monetize your audience with subscriptions."
+msgstr "ສ້າງເນື້ອຫາທີ່ໂດດເດັ່ນ, ເພີ່ມຖານຜູ້ຕິດຕາມ ແລະ ສ້າງລາຍໄດ້ຈາກກຸ່ມຜູ້ອ່ານຂອງທ່ານດ້ວຍການສະໝັກສະມາຊິກ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:87
+msgid "Get more subscribers and keep them engaged with our creator tools"
+msgstr "ເພີ່ມຜູ້ຕິດຕາມ ແລະ ຮັກສາການມີສ່ວນຮ່ວມຂອງພວກເຂົາດ້ວຍເຄື່ອງມືສ້າງສັນຂອງພວກເຮົາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:126
+msgid "Fast sites get more page visits, more conversions, and better SEO rankings. Boost speeds up your site in seconds."
+msgstr "ເວັບໄຊທີ່ໄວຈະໄດ້ຮັບຍອດເຂົ້າຊົມຫຼາຍຂຶ້ນ, ມີອັດຕາການປ່ຽນແປງທີ່ດີຂຶ້ນ ແລະ ອັນດັບ SEO ທີ່ດີຂຶ້ນ. Boost ຈະຊ່ວຍເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊຂອງທ່ານໃນບໍ່ກີ່ວິນາທີ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:223
+msgid "Logging in with WordPress.com is disabled for sites that are in safe mode."
+msgstr "ການເຂົ້າສູ່ລະບົບດ້ວຍ WordPress.com ຖືກປິດໃຊ້ງານສຳລັບເວັບໄຊທີ່ຢູ່ໃນໂໝດປອດໄພ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-force-2fa.php:78
+msgid "Jetpack Force 2FA requires Jetpack’s SSO feature."
+msgstr "Jetpack Force 2FA ຕ້ອງການຄຸນສົມບັດ SSO ຂອງ Jetpack."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:169
+msgid "Generate featured images"
+msgstr "ສ້າງຮູບເດັ່ນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:908
+msgid "<strong>Error</strong>: Invalid site ID."
+msgstr "<strong>ຂໍ້ຜິດພາດ</strong>: ໄອດີເວັບໄຊບໍ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:785
+msgid "External User"
+msgstr "ຜູ້ໃຊ້ພາຍນອກ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:395
+msgid "I'm fine with my plan, thanks"
+msgstr "ຂ້ອຍພໍໃຈກັບແພັກເກດຂອງຂ້ອຍແລ້ວ, ຂອບໃຈ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:394
+msgid "Continue for free"
+msgstr "ສືບຕໍ່ແບບຟຣີ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:162
+msgid "Get feedback on posts"
+msgstr "ຮັບຄຳຕິຊົມກ່ຽວກັບໂພສ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:155
+msgid "Build forms from prompts"
+msgstr "ສ້າງຟອມຈາກຄຳສັ່ງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:148
+msgid "Generate and edit content"
+msgstr "ສ້າງ ແລະ ແກ້ໄຂເນື້ອຫາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:134
+msgid "Increase your monthly request limit. Upgrade now and have the option to further increase your requests with additional upgrades."
+msgstr "ເພີ່ມຂີດຈຳກັດຄຳຮ້ອງປະຈຳເດືອນຂອງທ່ານ. ອັບເກຣດດຽວນີ້ເພື່ອຮັບຕົວເລືອກໃນການເພີ່ມຄຳຮ້ອງໃຫ້ຫຼາຍຂຶ້ນດ້ວຍການອັບເກຣດເພີ່ມຕື່ມ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:133
+msgid "Requests"
+msgstr "ຄຳຮ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:131
+msgid "Number of requests"
+msgstr "ຈຳນວນຄຳຮ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:125
+msgid "Let's get in touch"
+msgstr "ຕິດຕໍ່ພວກເຮົາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:120
+msgid "Up to 20 requests"
+msgstr "ສູງສຸດ 20 ຄຳຮ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:650
+msgid "We highly recommend inviting users to join WordPress.com and log in securely using <a class=\"jetpack-sso-admin-create-user-invite-message-link-sso\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://jetpack.com/support/sso/\">Secure Sign On</a> to ensure maximum security and efficiency."
+msgstr "ພວກເຮົາແນະນຳຢ່າງຍິ່ງໃຫ້ເຊີນຜູ້ໃຊ້ມາເຂົ້າຮ່ວມ WordPress.com ແລະ ເຂົ້າສູ່ລະບົບຢ່າງປອດໄພໂດຍໃຊ້ <a class=\"jetpack-sso-admin-create-user-invite-message-link-sso\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://jetpack.com/support/sso/\">Secure Sign On</a> ເພື່ອຮັບປະກັນຄວາມປອດໄພ ແລະ ປະສິດທິພາບສູງສຸດ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-users-connection-admin.php:59
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:1197
+msgid "Tooltip"
+msgstr "ຄຳແນະນຳເຄື່ອງມື"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:217
+msgid "An error has occurred when revoking the user invite."
+msgstr "ເກີດຂໍ້ຜິດພາດໃນຂະນະທີ່ຍົກເລີກການເຊີນຜູ້ໃຊ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:182
+msgid "User was invited successfully!"
+msgstr "ເຊີນຜູ້ໃຊ້ສຳເລັດແລ້ວ!"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:1196
+msgid "This user doesn&#8217;t have a Jetpack SSO connection to WordPress.com. Invite them to the site to increase security and improve their experience."
+msgstr "ຜູ້ໃຊ້ນີ້ຍັງບໍ່ມີການເຊື່ອມຕໍ່ Jetpack SSO ກັບ WordPress.com. ເຊີນພວກເຂົາມາທີ່ເວັບໄຊເພື່ອເພີ່ມຄວາມປອດໄພ ແລະ ປັບປຸງປະສົບການຂອງພວກເຂົາ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:759
+msgid "Invite user to WordPress.com"
+msgstr "ເຊີນຜູ້ໃຊ້ມາທີ່ WordPress.com"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:745
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:750
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:790
+msgid "Invite user"
+msgstr "ເຊີນຜູ້ໃຊ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:628
+msgid "Resend invite"
+msgstr "ສົ່ງຄຳເຊີນຄືນໃໝ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:215
+msgid "An error has occurred when revoking the invite for the user."
+msgstr "ເກີດຂໍ້ຜິດພາດໃນຂະນະທີ່ຍົກເລີກການເຊີນສຳລັບຜູ້ໃຊ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:213
+msgid "Attempted to send a new invitation to a user using an invite that doesn&#8217;t exist."
+msgstr "ພະຍາຍາມສົ່ງຄຳເຊີນໃໝ່ໃຫ້ຜູ້ໃຊ້ໂດຍໃຊ້ຄຳເຊີນທີ່ບໍ່ມີຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:211
+msgid "There is no previous invite for this user"
+msgstr "ບໍ່ມີຄຳເຊີນກ່ອນໜ້ານີ້ສຳລັບຜູ້ໃຊ້ນີ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:1195
+msgid "Send invite"
+msgstr "ສົ່ງຄຳເຊີນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:1174
+msgid "Pending invite"
+msgstr "ຄຳເຊີນທີ່ຍັງລໍຖ້າການຕອບຮັບ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:1173
+msgid "This user didn&#8217;t accept the invitation to join this site yet."
+msgstr "ຜູ້ໃຊ້ນີ້ຍັງບໍ່ໄດ້ຮັບຄຳເຊີນໃຫ້ເຂົ້າຮ່ວມເວັບໄຊນີ້ເທື່ອ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:958
+msgid "<strong>Error</strong>: The user invitation email could not be sent, the user account was not created."
+msgstr "<strong>ຂໍ້ຜິດພາດ</strong>: ບໍ່ສາມາດສົ່ງອີເມວຄຳເຊີນຜູ້ໃຊ້ໄດ້, ບັນຊີຜູ້ໃຊ້ຈຶ່ງບໍ່ຖືກສ້າງຂຶ້ນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:895
+msgid "<strong>Error</strong>: The custom message is too long. Please keep it under 500 characters."
+msgstr "<strong>ຂໍ້ຜິດພາດ</strong>: ຂໍ້ຄວາມທີ່ປັບແຕ່ງເອງຍາວເກີນໄປ. ກະລຸນາຂຽນໃຫ້ບໍ່ເກີນ 500 ຕົວອັກສອນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:830
+msgid "This user will be invited to WordPress.com. You can include a personalized welcome message with the invitation."
+msgstr "ຜູ້ໃຊ້ນີ້ຈະຖືກເຊີນມາທີ່ WordPress.com. ທ່ານສາມາດໃສ່ຂໍ້ຄວາມຕ້ອນຮັບທີ່ປັບແຕ່ງເອງໄປພ້ອມກັບຄຳເຊີນໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:823
+msgid "Custom Message"
+msgstr "ຂໍ້ຄວາມປັບແຕ່ງເອງ"
+
+#. translators: %s is a comma-separated list of user logins.
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:706
+msgid "WordPress.com invitation will be automatically revoked for user: <strong>%s</strong>."
+msgid_plural "WordPress.com invitations will be automatically revoked for users: <strong>%s</strong>."
+msgstr[0] "ຄຳເຊີນ WordPress.com ຈະຖືກຍົກເລີກໂດຍອັດຕະໂນມັດສຳລັບຜູ້ໃຊ້: <strong>%s</strong>."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:612
+msgid "Revoke invite"
+msgstr "ຍົກເລີກຄຳເຊີນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:219
+msgid "An error has occurred when inviting the user to the site."
+msgstr "ເກີດຂໍ້ຜິດພາດໃນຂະນະທີ່ເຊີນຜູ້ໃຊ້ມາທີ່ເວັບໄຊ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:209
+msgid "You don&#8217;t have permission to revoke invites."
+msgstr "ທ່ານບໍ່ມີສິດໃນການຍົກເລີກຄຳເຊີນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:207
+msgid "Tried to revoke an invite that doesn&#8217;t exist."
+msgstr "ພະຍາຍາມຍົກເລີກຄຳເຊີນທີ່ບໍ່ມີຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:205
+msgid "Tried to revoke an invite for a user that doesn&#8217;t exist."
+msgstr "ພະຍາຍາມຍົກເລີກຄຳເຊີນສຳລັບຜູ້ໃຊ້ທີ່ບໍ່ມີຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:203
+msgid "You don&#8217;t have permission to invite users."
+msgstr "ທ່ານບໍ່ມີສິດໃນການເຊີນຜູ້ໃຊ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:201
+msgid "Tried to invite a user that doesn&#8217;t have an email address."
+msgstr "ພະຍາຍາມເຊີນຜູ້ໃຊ້ທີ່ບໍ່ມີທີ່ຢູື່ອີເມວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:199
+msgid "Tried to invite a user that doesn&#8217;t exist."
+msgstr "ພະຍາຍາມເຊີນຜູ້ໃຊ້ທີ່ບໍ່ມີຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:189
+msgid "User invite revoked successfully."
+msgstr "ຍົກເລີກຄຳເຊີນຜູ້ໃຊ້ສຳເລັດແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-user-admin.php:185
+msgid "User was re-invited successfully!"
+msgstr "ສົ່ງຄຳເຊີນຜູ້ໃຊ້ຄືນໃໝ່ສຳເລັດແລ້ວ!"
+
+#. translators: %1$s is a link to the WordPress.com account settings page.
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:187
+msgid "If you are on a shared computer, remember to also <a href=\"%1$s\">log out of WordPress.com</a>."
+msgstr "ຫາກທ່ານກຳລັງໃຊ້ຄອມພິວເຕີຮ່ວມກັບຜູ້ນື່ອື່ນ, ຢ່າລືມ <a href=\"%1$s\">ອອກຈາກລະບົບ WordPress.com</a> ນຳ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:1042
+msgid "Something got a little mixed up and an unexpected WordPress.com user logged in."
+msgstr "ເກີດຄວາມຜິດພາດບາງຢ່າງ ແລະ ມີຜູ້ໃຊ້ WordPress.com ທີ່ບໍ່ຄາດຄິດເຂົ້າສູ່ລະບົບ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:1263
+msgid "Account not found. If you already have an account, make sure you have connected to WordPress.com."
+msgstr "ບໍ່ພົບບັນຊີ. ຖ້າທ່ານມີບັນຊີຢູ່ແລ້ວ, ໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ເຊື່ອມຕໍ່ກັບ WordPress.com."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:1027
+msgid "You must have Two-Step Authentication enabled on your WordPress.com account."
+msgstr "ທ່ານຕ້ອງເປີດໃຊ້ການຢືນຢັນຕົວຕົນແບບສອງຂັ້ນຕອນ (Two-Step Authentication) ໃນບັນຊີ WordPress.com ຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:336
+msgid "Secure Sign On"
+msgstr "ການເຂົ້າສູ່ລະບົບແບບປອດໄພ (SSO)"
+
+#. translators: URL to settings page
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:32
+msgid "Two-Step Authentication is required to access this site. Please visit your <a href=\"%1$s\" rel=\"noopener noreferrer\" target=\"_blank\">Security Settings</a> to configure <a href=\"%2$s\" rel=\"noopener noreferrer\" target=\"_blank\">Two-step Authentication</a> for your account."
+msgstr "ຈຳເປັນຕ້ອງມີການຢືນຢັນຕົວຕົນສອງຂັ້ນຕອນເພື່ອເຂົ້າເຖິງເວັບໄຊນີ້. ກະລຸນາໄປທີ່ <a href=\"%1$s\" rel=\"noopener noreferrer\" target=\"_blank\">ການຕັ້ງຄ່າຄວາມປອດໄພ</a> ເພື່ອກຳນົດຄ່າ <a href=\"%2$s\" rel=\"noopener noreferrer\" target=\"_blank\">ການຢືນຢັນຕົວຕົນສອງຂັ້ນຕອນ</a> ສຳລັບບັນຊີຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:118
+msgid "There was an error creating a user for you. Please contact the administrator of your site."
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການສ້າງຜູ້ໃຊ້ໃຫ້ທ່ານ. ກະລຸນາຕິດຕໍ່ຜູ້ດູແລລະບົບຂອງເວັບໄຊຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:99
+msgid "There was an error logging you in via WordPress.com, please try again or try logging in with your username and password."
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການເຂົ້າສູ່ລະບົບຜ່ານ WordPress.com, ກະລຸນາລອງໃໝ່ ຫຼື ລອງເຂົ້າສູ່ລະບົບດ້ວຍຊື່ຜູ້ໃຊ້ ແລະ ລະຫັດຜ່ານຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:83
+msgid "Logging in with WordPress.com is not currently available because this site is experiencing connection problems."
+msgstr "ໃນຂະນະນີ້ບໍ່ສາມາດເຂົ້າສູ່ລະບົບດ້ວຍ WordPress.com ໄດ້ ເນື່ອງຈາກເວັບໄຊນີ້ກຳລັງປະສົບບັນຫາການເຊື່ອມຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:192
+msgid "We couldn't find your account. If you already have an account, make sure you have connected to WordPress.com."
+msgstr "ພວກເຮົາບໍ່ພົບບັນຊີຂອງທ່ານ. ຫາກທ່ານມີບັນຊີຢູ່ແລ້ວ, ກະລຸນາກວດສອບໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ເຊື່ອມຕໍ່ກັບ WordPress.com."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:167
+msgid "A WordPress.com account is required to access this site. Click the button below to sign in or create a free WordPress.com account."
+msgstr "ຕ້ອງມີບັນຊີ WordPress.com ເພື່ອເຂົ້າເຖິງເວັບໄຊນີ້. ຄລິກປຸ່ມລຸ່ມນີ້ເພື່ອເຂົ້າສູ່ລະບົບ ຫຼື ສ້າງບັນຊີ WordPress.com ຟຣີ."
+
+#. translators: login URL
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-notices.php:59
+msgid "You already have an account on this site. Please <a href=\"%1$s\">sign in</a> with your username and password and then connect to WordPress.com."
+msgstr "ທ່ານມີບັນຊີໃນເວັບໄຊນີ້ຢູ່ແລ້ວ. ກະລຸນາ <a href=\"%1$s\">ເຂົ້າສູ່ລະບົບ</a> ດ້ວຍຊື່ຜູ້ໃຊ້ ແລະ ລະຫັດຜ່ານຂອງທ່ານ ແລ້ວຈຶ່ງເຊື່ອມຕໍ່ກັບ WordPress.com."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:701
+msgid "Log in with username and password"
+msgstr "ເຂົ້າສູ່ລະບົບດ້ວຍຊື່ຜູ້ໃຊ້ ແລະ ລະຫັດຜ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:696
+msgid "Or"
+msgstr "ຫຼື"
+
+#. Translators: %s is the name of the site.
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:673
+msgid "You can now save time spent logging in by connecting your WordPress.com account to %s."
+msgstr "ຕອນນີ້ທ່ານສາມາດປະຢັດເວລາໃນການເຂົ້າສູ່ລະບົບໄດ້ ໂດຍການເຊື່ອມຕໍ່ບັນຊີ WordPress.com ຂອງທ່ານກັບ %s."
+
+#. translators: %s a user display name.
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:640
+msgid "Log in as <span>%s</span>"
+msgstr "ເຂົ້າສູ່ລະບົບໃນນາມ <span>%s</span>"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:707
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:1295
+msgid "Log in with WordPress.com"
+msgstr "ເຂົ້າສູ່ລະບົບດ້ວຍ WordPress.com"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:567
+msgid "Cannot deal with cookie redirects, as headers are already sent."
+msgstr "ບໍ່ສາມາດຈັດການກັບການປ່ຽນເສັ້ນທາງຄຸກກີ້ໄດ້ ເນື່ອງຈາກໄດ້ສົ່ງ headers ໄປແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:424
+msgid "Match by Email"
+msgstr "ຈັບຄູ່ດ້ວຍອີເມລ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/sso/class-sso.php:392
+msgid "Require Two-Step Authentication"
+msgstr "ຕ້ອງມີການຢືນຢັນຕົວຕົນສອງຂັ້ນຕອນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-users-connection-admin.php:81
+#: jetpack_vendor/automattic/jetpack-connection/src/connectors/js/connectors-card.js:700
+msgid "Connected"
+msgstr "ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php:275
+msgid "Prefix to add before the stats identifiers."
+msgstr "ຄຳນຳໜ້າທີ່ຈະເພີ່ມກ່ອນຕົວລະບຸສະຖິຕິ."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:676
+msgid "Order not found "
+msgstr "ບໍ່ພົບລາຍການສັ່ງຊື້ "
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:666
+msgid "Not allowed to get the order with current configuration"
+msgstr "ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ດຶງຂໍ້ມູນການສັ່ງຊື້ດ້ວຍການຕັ້ງຄ່າປະຈຸບັນ"
+
+#. translators: %d is a numeric HTTP error code
+#: jetpack_vendor/automattic/jetpack-boost-core/src/lib/class-utils.php:132
+msgid "HTTP %d while communicating with WordPress.com"
+msgstr "ເກີດຂໍ້ຜິດພາດ HTTP %d ຂະນະທີ່ກຳລັງຕິດຕໍ່ກັບ WordPress.com"
+
+#: jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score.php:139
+msgid "The url parameter is required"
+msgstr "ຈຳເປັນຕ້ອງມີພາຣາມີເຕີ URL"
+
+#: jetpack_vendor/automattic/jetpack-boost-speed-score/src/class-speed-score-request.php:266
+msgid "Invalid response from WPCOM API while polling for speed scores"
+msgstr "ການຕອບສະໜອງຈາກ WPCOM API ບໍ່ຖືກຕ້ອງຂະນະທີ່ກຳລັງກວດສອບຄະແນນຄວາມໄວ"
+
+#. translators: %s is a URL
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:71
+msgid "Your site is incorrectly double-encoding redirects from http to https. This is preventing Jetpack from authenticating your connection. Please visit our <a href=\"%s\">support page</a> for details about how to resolve this."
+msgstr "ເວັບໄຊຂອງທ່ານມີການເຂົ້າລະຫັດການປ່ຽນທິດທາງ (redirect) ຈາກ http ໄປ https ຊ້ຳຊ້ອນກັນຢ່າງບໍ່ຖືກຕ້ອງ. ສິ່ງນີ້ເຮັດໃຫ້ Jetpack ບໍ່ສາມາດຢືນຢັນການເຊື່ອມຕໍ່ຂອງທ່ານໄດ້. ກະລຸນາເຂົ້າເບິ່ງ <a href=\"%s\">ໜ້າຊ່ວຍເຫຼືອ</a> ຂອງພວກເຮົາສຳລັບລາຍລະອຽດວິທີແກ້ໄຂ."
+
+#. translators: Name/image of the client requesting authorization
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:277
+msgid "%s wants to access your site’s data. Log in to authorize that access."
+msgstr "%s ຕ້ອງການເຂົ້າເຖິງຂໍ້ມູນເວັບໄຊຂອງທ່ານ. ເຂົ້າສູ່ລະບົບເພື່ອອະນຸຍາດການເຂົ້າເຖິງນັ້ນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:164
+msgid "The authorization process expired. Please go back and try again."
+msgstr "ຂະບວນການຂໍອະນຸຍາດໝົດອາຍຸແລ້ວ. ກະລຸນາກັບຄືນໄປແລ້ວລອງໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:57
+msgid "Someone may be trying to trick you into giving them access to your site. Or it could be you just encountered a bug :).  Either way, please close this window."
+msgstr "ອາດມີບາງຄົນພະຍາຍາມຫຼອກລວງໃຫ້ທ່ານໃຫ້ສິດເຂົ້າເຖິງເວັບໄຊຂອງທ່ານ. ຫຼື ມັນອາດຈະເປັນຂໍ້ຜິດພາດ (bug). ບໍ່ວ່າຈະເປັນທາງໃດ, ກະລຸນາປິດໜ້າຈໍນີ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:48
+#: jetpack_vendor/automattic/jetpack-connection/src/class-authorize-json-api.php:54
+msgid "You must connect your Jetpack plugin to WordPress.com to use this feature."
+msgstr "ທ່ານຕ້ອງເຊື່ອມຕໍ່ປລັກອິນ Jetpack ຂອງທ່ານກັບ WordPress.com ເພື່ອໃຊ້ຄຸນສົມບັດນີ້."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:137
+msgid "Commercial use"
+msgstr "ການນຳໃຊ້ໃນທາງການຄ້າ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:135
+msgid "Access to upcoming advanced features"
+msgstr "ເຂົ້າເຖິງຄຸນສົມບັດຂັ້ນສູງທີ່ຈະມາເຖິງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:134
+msgid "GDPR compliant"
+msgstr "ປະຕິບັດຕາມ GDPR"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:133
+msgid "Detailed statistics about links leading to your site"
+msgstr "ສະຖິຕິລະອຽດກ່ຽວກັບລິ້ງທີ່ນຳມາຫາເວັບໄຊຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:132
+msgid "Traffic stats and trends for post and pages"
+msgstr "ສະຖິຕິການເຂົ້າຊົມ ແລະ ແນວໂນ້ມສຳລັບໂພສ ແລະ ໜ້າຕ່າງໆ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:131
+msgid "Real-time data on visitors"
+msgstr "ຂໍ້ມູນຜູ້ຢ້ຽມຢາມແບບສົດໆ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:317
+msgid "The endpoint is not available on connected sites."
+msgstr "Endpoint ນີ້ບໍ່ມີໃຫ້ໃຊ້ໃນເວັບໄຊທີ່ເຊື່ອມຕໍ່ແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:101
+msgid "URL secret to compare to the ones stored in the database."
+msgstr "URL ຄວາມລັບເພື່ອປຽບທຽບກັບສິ່ງທີ່ເກັບໄວ້ໃນຖານຂໍ້ມູນ."
+
+#. translators: number of requests
+#. translators: %d is the number of requests.
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:122
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:127
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:294
+msgid "Up to %d requests per month"
+msgstr "ສູງສຸດ %d ການຮ້ອງຂໍຕໍ່ເດືອນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:238
+msgid ""
+"<p>WordAds adds advertisements to your website. Start earning from your website traffic.</p>\n"
+"                        <p>Over 50 internet advertisers — including Google AdSense & Adx, AppNexus, Amazon A9, AOL Marketplace, Yahoo, Criteo, and more — bid to display ads in WordAds spots.</p>"
+msgstr ""
+"<p>WordAds ເພີ່ມການໂຄສະນາໃສ່ເວັບໄຊຂອງທ່ານ. ເລີ່ມສ້າງລາຍໄດ້ຈາກການເຂົ້າຊົມເວັບໄຊຂອງທ່ານໄດ້ເລີຍ.</p>\n"
+"                        <p>ຜູ້ລົງໂຄສະນາທາງອິນເຕີເນັດຫຼາຍກວ່າ 50 ລາຍ — ລວມທັງ Google AdSense & Adx, AppNexus, Amazon A9, AOL Marketplace, Yahoo, Criteo ແລະ ອື່ນໆ — ຮ່ວມປະມູນເພື່ອສະແດງໂຄສະນາໃນພື້ນທີ່ຂອງ WordAds.</p>"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:225
+msgid "Accept payment with PayPal for simple payments like eBooks, courses and more."
+msgstr "ຮັບການຈ່າຍເງິນດ້ວຍ PayPal ສຳລັບການຈ່າຍເງິນແບບງ່າຍໆ ເຊັ່ນ: eBooks, ຄອສຮຽນ ແລະ ອື່ນໆ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:212
+msgid "Start a Newsletter by sending your content as an email newsletter direct to your fans email inboxes."
+msgstr "ເລີ່ມຕົ້ນຈົດໝາຍຂ່າວໂດຍການສົ່ງເນື້ອຫາຂອງທ່ານເປັນຈົດໝາຍຂ່າວທາງອີເມວໂດຍກົງຫາອິນບັອກຂອງແຟນໆຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:199
+msgid "Add a Paywall to your content which lets your visitors read a section of your content before being asked to subscribe to continue reading."
+msgstr "ເພີ່ມ Paywall ໃສ່ເນື້ອຫາຂອງທ່ານ ເພື່ອໃຫ້ຜູ້ເຂົ້າຊົມອ່ານເນື້ອຫາບາງສ່ວນກ່ອນທີ່ຈະຂໍໃຫ້ສະໝັກສະມາຊິກເພື່ອອ່ານຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:197
+msgid "Paywall access"
+msgstr "ການເຂົ້າເຖິງຜ່ານ Paywall"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:186
+msgid "Lock your content behind a paid content block. To access the content, readers will need to pay a one-time fee or a recurring subscription."
+msgstr "ລັອກເນື້ອຫາຂອງທ່ານໄວ້ຫຼັງບລັອກເນື້ອຫາທີ່ຕ້ອງຈ່າຍເງິນ. ໃນການເຂົ້າເຖິງເນື້ອຫາ, ຜູ້ອ່ານຈະຕ້ອງຈ່າຍຄ່າທຳນຽມຄັ້ງດຽວ ຫຼື ສະໝັກສະມາຊິກແບບລາຍງວດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:184
+msgid "Paid content gating"
+msgstr "ການຈຳກັດເນື້ອຫາທີ່ຕ້ອງຈ່າຍເງິນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:166
+msgid "2%"
+msgstr "2%"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:162
+msgid "10%"
+msgstr "10%"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:151
+msgid "Transaction fees"
+msgstr "ຄ່າທຳນຽມການເຮັດທຸລະກຳ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:146
+msgid "Unlimited subscribers"
+msgstr "ຜູ້ຕິດຕາມບໍ່ຈຳກັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:142
+msgid "100 subscribers"
+msgstr "ຜູ້ຕິດຕາມ 100 ທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:134
+msgid "Import a CSV file of your existing subscribers to be sent your Newsletter."
+msgstr "ນຳເຂົ້າໄຟລ໌ CSV ຂອງຜູ້ຕິດຕາມທີ່ມີຢູ່ຂອງທ່ານເພື່ອສົ່ງຈົດໝາຍຂ່າວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:173
+msgid "Jetpack has over 40 Gutenberg blocks to help you with your content creation, such as displaying your podcasts, showing different content to repeat visitors, creating contact forms and many more."
+msgstr "Jetpack ມີບລັອກ Gutenberg ຫຼາຍກວ່າ 40 ບລັອກເພື່ອຊ່ວຍທ່ານໃນການສ້າງເນື້ອຫາ ເຊັ່ນ: ການສະແດງພອດແຄສ, ການສະແດງເນື້ອຫາທີ່ແຕກຕ່າງກັນສຳລັບຜູ້ເຂົ້າຊົມທີ່ກັບມາເບິ່ງຊ້ຳ, ການສ້າງແບບຟອມຕິດຕໍ່ ແລະ ອື່ນໆອີກຫຼາຍຢ່າງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:153
+msgid ""
+"<p>Fees are only collected when you accept payments.</p>\n"
+"                        <p>Fees are based on the Jetpack plan you have and are calculated as a percentage of your revenue from 10% on the Free plan to 2% on the Creator plan (plus Stripe fees).</p>"
+msgstr ""
+"<p>ຄ່າທຳນຽມຈະຖືກເກັບເມື່ອທ່ານໄດ້ຮັບການຈ່າຍເງິນເທົ່ານັ້ນ.</p>\n"
+"                        <p>ຄ່າທຳນຽມແມ່ນຂຶ້ນກັບແຜນ Jetpack ທີ່ທ່ານມີ ແລະ ຄິດໄລ່ເປັນເປີເຊັນຂອງລາຍໄດ້ຂອງທ່ານ ຕັ້ງແຕ່ 10% ໃນແຜນຟຣີ ຈົນເຖິງ 2% ໃນແຜນ Creator (ບວກກັບຄ່າທຳນຽມ Stripe).</p>"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:132
+msgid "Import subscribers"
+msgstr "ນຳເຂົ້າຜູ້ຕິດຕາມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:108
+msgid "Monetize your online presence and earn from your website"
+msgstr "ສ້າງລາຍໄດ້ຈາກຕົວຕົນອອນລາຍຂອງທ່ານ ແລະ ສ້າງລາຍໄດ້ຈາກເວັບໄຊຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:107
+msgid "Grow your subscribers through our creator network and tools"
+msgstr "ເພີ່ມຈຳນວນຜູ້ຕິດຕາມຂອງທ່ານຜ່ານເຄືອຂ່າຍນັກສ້າງສັນ ແລະ ເຄື່ອງມືຂອງພວກເຮົາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:106
+msgid "Create content that stands out"
+msgstr "ສ້າງເນື້ອຫາທີ່ໂດດເດັ່ນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-jetpack-manage.php:78
+msgid "Jetpack Manage"
+msgstr "ການຈັດການ Jetpack"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:291
+msgid "Title & summary generation"
+msgstr "ການສ້າງຫົວຂໍ້ ແລະ ບົດສະຫຼຸບ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:290
+msgid "Superior spelling and grammar correction"
+msgstr "ການກວດສອບຕົວສະກົດ ແລະ ໄວຍາກອນທີ່ດີເລີດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:289
+msgid "Adaptive tone adjustment"
+msgstr "ການປັບໂທນສຽງໃຫ້ເໝາະສົມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:287
+msgid "Prompt based content generation"
+msgstr "ການສ້າງເນື້ອຫາຕາມຄຳສັ່ງ (Prompt)"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:245
+msgid "Upgrade and increase the amount of your available monthly requests to continue using the most advanced AI technology Jetpack has to offer."
+msgstr "ອັບເກຣດ ແລະ ເພີ່ມຈຳນວນການຮ້ອງຂໍລາຍເດືອນຂອງທ່ານ ເພື່ອໃຊ້ງານເຕັກໂນໂລຊີ AI ທີ່ທັນສະໄໝທີ່ສຸດຈາກ Jetpack ຕໍ່ໄປ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:243
+msgid "The most advanced AI technology Jetpack has to offer."
+msgstr "ເຕັກໂນໂລຊີ AI ທີ່ທັນສະໄໝທີ່ສຸດຈາກ Jetpack."
+
+#. translators: %1$s is a domain name.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2445
+msgid "IP address `%1$s` just failed is_usable_domain check as it is in the private network."
+msgstr "ທີ່ຢູ່ IP `%1$s` ບໍ່ຜ່ານການກວດສອບ is_usable_domain ເນື່ອງຈາກມັນຢູ່ໃນເຄືອຂ່າຍສ່ວນຕົວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-jetpack-manage.php:79
+msgctxt "product name shown in menu"
+msgid "Jetpack Manage"
+msgstr "Jetpack Manage"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:210
+msgid "Newsletter"
+msgstr "ຈົດໝາຍຂ່າວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:236
+msgid "WordAds"
+msgstr "WordAds"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:171
+msgid "Jetpack Blocks"
+msgstr "Jetpack Blocks"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:397
+msgid "Contact Us"
+msgstr "ຕິດຕໍ່ພວກເຮົາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:223
+msgid "Pay with PayPal"
+msgstr "ຊຳລະດ້ວຍ PayPal"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:278
+msgid "Generate text, tables, lists, and forms"
+msgstr "ສ້າງຂໍ້ຄວາມ, ຕາຕະລາງ, ລາຍການ ແລະ ແບບຟອມ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-url-secret.php:92
+msgid "Unable to save new URL secret"
+msgstr "ບໍ່ສາມາດບັນທຶກ URL secret ໃໝ່ໄດ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:302
+msgid "You do not have the correct user permissions to perform this action."
+msgstr "ທ່ານບໍ່ມີສິດອະນຸຍາດຜູ້ໃຊ້ທີ່ຖືກຕ້ອງເພື່ອດຳເນີນການນີ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:253
+msgid "URL secret does not exist."
+msgstr "URL secret ບໍ່ມີຢູ່."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:398
+msgid "Upgrade"
+msgstr "ອັບເກຣດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:283
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:292
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-stats.php:136
+msgid "Priority support"
+msgstr "ການຊ່ວຍເຫຼືອເປັນພິເສດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:288
+msgid "Generate text, tables, and lists"
+msgstr "ສ້າງຂໍ້ຄວາມ, ຕາຕະລາງ, ແລະ ລາຍການ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php:242
+msgid "Jetpack AI Assistant brings the power of AI right into your WordPress editor, letting your content creation soar to new heights."
+msgstr "Jetpack AI Assistant ນຳເອົາພະລັງຂອງ AI ມາສູ່ຕົວແກ້ໄຂ WordPress ຂອງທ່ານໂດຍກົງ, ເຮັດໃຫ້ການສ້າງເນື້ອຫາຂອງທ່ານກ້າວໄປສູ່ລະດັບໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:219
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:252
+msgid ""
+"<p>Paid customers get dedicated email support from our world-class Happiness Engineers to help with any issue.</p>\n"
+"\t\t\t\t\t\t <p>All other questions are handled by our team as quickly as we are able to go through the WordPress support forum.</p>"
+msgstr ""
+"<p>ລູກຄ້າທີ່ໃຊ້ບໍລິການແບບເສຍເງິນຈະໄດ້ຮັບການຊ່ວຍເຫຼືອຜ່ານອີເມວໂດຍສະເພາະຈາກ Happiness Engineers ລະດັບໂລກຂອງພວກເຮົາເພື່ອຊ່ວຍແກ້ໄຂບັນຫາຕ່າງໆ.</p>\n"
+"\t\t\t\t\t\t <p>ສ່ວນຄຳຖາມອື່ນໆທັງໝົດຈະຖືກດຳເນີນການໂດຍທີມງານຂອງພວກເຮົາໃຫ້ໄວທີ່ສຸດເທົ່າທີ່ຈະເຮັດໄດ້ຜ່ານຟໍຣຳການຊ່ວຍເຫຼືອຂອງ WordPress.</p>"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:217
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-creator.php:250
+msgid "Dedicated email support"
+msgstr "ການຊ່ວຍເຫຼືອຜ່ານອີເມວໂດຍສະເພາະ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:272
+msgid "Deliver images from Jetpack's Content Delivery Network. Automatically resizes your images to an appropriate size, converts them to modern efficient formats like WebP, and serves them from a worldwide network of servers."
+msgstr "ສົ່ງມອບຮູບພາບຈາກ Content Delivery Network ຂອງ Jetpack. ປັບຂະໜາດຮູບພາບຂອງທ່ານໃຫ້ເໝາະສົມໂດຍອັດຕະໂນມັດ, ປ່ຽນເປັນຮູບແບບທີ່ທັນສະໄໝ ແລະ ມີປະສິດທິພາບຄື WebP, ແລະ ໃຫ້ບໍລິການຜ່ານເຄືອຂ່າຍເຊີບເວີທົ່ວໂລກ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:270
+msgid "Image CDN"
+msgstr "CDN ສຳລັບຮູບພາບ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:285
+msgid "Discover and fix images with a suboptimal resolution, aspect ratio, or file size, improving user experience and page speed."
+msgstr "ຄົ້ນຫາ ແລະ ແກ້ໄຂຮູບພາບທີ່ມີຄວາມລະອຽດ, ອັດຕາສ່ວນ ຫຼື ຂະໜາດໄຟລ໌ທີ່ບໍ່ເໝາະສົມ ເພື່ອປັບປຸງປະສົບການຜູ້ໃຊ້ ແລະ ຄວາມໄວຂອງໜ້າເວັບ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:283
+msgid "Image guide"
+msgstr "ຄຳແນະນຳກ່ຽວກັບຮູບພາບ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:298
+msgid "Run non-essential JavaScript after the page has loaded so that styles and images can load more quickly."
+msgstr "ເຮັດວຽກ JavaScript ທີ່ບໍ່ຈຳເປັນຫຼັງຈາກໂຫລດໜ້າເວັບແລ້ວ ເພື່ອໃຫ້ຮູບແບບ ແລະ ຮູບພາບສາມາດໂຫລດໄດ້ໄວຂຶ້ນ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:296
+msgid "Defer non-essential JavaScript"
+msgstr "ຊະລໍການໂຫລດ JavaScript ທີ່ບໍ່ຈຳເປັນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:193
+msgid "Automatic Critical CSS regeneration"
+msgstr "ການສ້າງ Critical CSS ໃໝ່ແບບອັດຕະໂນມັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:174
+msgid "Manual Critical CSS regeneration"
+msgstr "ການສ້າງ Critical CSS ໃໝ່ດ້ວຍຕົນເອງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:275
+msgid "Severity labels"
+msgstr "ປ້າຍບອກລະດັບຄວາມຮຸນແຮງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:261
+msgid "One-click auto fixes"
+msgstr "ການແກ້ໄຂອັດຕະໂນມັດໃນຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:254
+msgid "Access to scan on Cloud"
+msgstr "ການເຂົ້າເຖິງການສະແກນເທິງຄລາວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:194
+msgid ""
+"<p>It’s essential to regenerate Critical CSS to optimize your site speed whenever your HTML or CSS structure changes. Being on top of this can be tedious and time-consuming.</p>\n"
+"\t\t\t\t\t\t\t\t <p>Boost’s cloud service can automatically detect when your site needs the Critical CSS regenerated, and perform this function behind the scenes without requiring you to monitor it manually.</p>"
+msgstr ""
+"<p>ການສ້າງ Critical CSS ໃໝ່ເປັນສິ່ງຈຳເປັນເພື່ອເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊຂອງທ່ານທຸກຄັ້ງທີ່ມີການປ່ຽນແປງໂຄງສ້າງ HTML ຫຼື CSS. ການເຮັດແບບນີ້ດ້ວຍຕົນເອງອາດເປັນເລື່ອງໜ້າເບື່ອ ແລະ ເສຍເວລາ.</p>\n"
+"\t\t\t\t\t\t\t\t <p>ບໍລິການຄລາວຂອງ Boost ສາມາດກວດສອບໄດ້ໂດຍອັດຕະໂນມັດເມື່ອເວັບໄຊຂອງທ່ານຕ້ອງການສ້າງ Critical CSS ໃໝ່, ແລະ ດຳເນີນການຢູ່ເບື້ອງຫຼັງໂດຍທີ່ທ່ານບໍ່ຈຳເປັນຕ້ອງມາເບິ່ງເອງ.</p>"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:175
+msgid ""
+"<p>To enhance the speed of your site, with this plan you will need to optimize CSS by using the Manual Critical CSS generation feature whenever you:</p>\n"
+"\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t<li>Make theme changes.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Write a new post/page.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Edit a post/page.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Activate, deactivate, or update plugins that impact your site layout or HTML structure.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Change settings of plugins that impact your site layout or HTML structure.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Upgrade your WordPress version if the new release includes core CSS changes.</li>\n"
+"\t\t\t\t\t\t\t\t</ul>"
+msgstr ""
+"<p>ເພື່ອເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊຂອງທ່ານ, ສຳລັບແຜນການນີ້ທ່ານຈຳເປັນຕ້ອງປັບແຕ່ງ CSS ໂດຍໃຊ້ຄຸນສົມບັດການສ້າງ Critical CSS ດ້ວຍຕົນເອງເມື່ອທ່ານ:</p>\n"
+"\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t<li>ປ່ຽນແປງທີມ.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>ຂຽນໂພສ/ໜ້າໃໝ່.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>ແກ້ໄຂໂພສ/ໜ້າ.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>ເປີດໃຊ້, ປິດໃຊ້ ຫຼື ອັບເດດປລັກອິນທີ່ມີຜົນຕໍ່ຮູບແບບເວັບໄຊ ຫຼື ໂຄງສ້າງ HTML.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>ປ່ຽນການຕັ້ງຄ່າຂອງປລັກອິນທີ່ມີຜົນຕໍ່ຮູບແບບເວັບໄຊ ຫຼື ໂຄງສ້າງ HTML.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>ອັບເກຣດເວີຊັນ WordPress ຂອງທ່ານຫາກມີການປ່ຽນແປງ CSS ຫຼັກໃນເວີຊັນໃໝ່.</li>\n"
+"\t\t\t\t\t\t\t\t</ul>"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:164
+msgid "Move important styling information to the start of the page, which helps pages display your content sooner, so your users don’t have to wait for the entire page to load. Commonly referred to as Critical CSS."
+msgstr "ຍ້າຍຂໍ້ມູນຮູບແບບທີ່ສຳຄັນໄປໄວ້ທີ່ສ່ວນຕົ້ນຂອງໜ້າເວັບ, ເຊິ່ງຊ່ວຍໃຫ້ໜ້າເວັບສະແດງເນື້ອຫາໄດ້ໄວຂຶ້ນ ເພື່ອໃຫ້ຜູ້ໃຊ້ບໍ່ຕ້ອງລໍຖ້າໃຫ້ໂຫລດທັງໝົດໜ້າ. ເຊິ່ງເອີ້ນກັນທົ່ວໄປວ່າ Critical CSS."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:235
+msgid "Automatic protection and rule updates"
+msgstr "ການປ້ອງກັນ ແລະ ອັບເດດກົດລະບຽບແບບອັດຕະໂນມັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:231
+msgid "Manual rules only"
+msgstr "ກົດລະບຽບແບບຕັ້ງຄ່າເອງເທົ່ານັ້ນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:227
+msgid "Web Application Firewall"
+msgstr "ເວັບແອັບພລິເຄຊັນໄຟວໍ (WAF)"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:222
+msgid "Plus on-demand manual scans"
+msgstr "ພ້ອມທັງການສະແກນດ້ວຍຕົນເອງຕາມຕ້ອງການ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:217
+msgid "Daily automated scans"
+msgstr "ການສະແກນອັດຕະໂນມັດປະຈຳວັນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:212
+msgid "Line by line malware scanning"
+msgstr "ການສະແກນຫາ ມັລແວຣ໌ ແບບແຖວຕໍ່ແຖວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:208
+msgid "Check items against database"
+msgstr "ກວດສອບລາຍການຕ່າງໆກັບຖານຂໍ້ມູນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:204
+msgid "Scan for threats and vulnerabilities"
+msgstr "ສະແກນຫາໄພຄຸກຄາມ ແລະ ຊ່ອງໂຫວ່"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:191
+msgid "Included"
+msgstr "ລວມຢູ່ນຳ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:240
+msgid "Brute force protection"
+msgstr "ການປ້ອງກັນການບຸກລຸກແບບ Brute force"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:268
+msgid "Notifications"
+msgstr "ການແຈ້ງເຕືອນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-starter.php:82
+msgctxt "Starter Product Feature"
+msgid "Comment & form spam protection"
+msgstr "ການປ້ອງກັນສະແປມໃນຄວາມຄິດເຫັນ ແລະ ຟອມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-starter.php:81
+msgctxt "Starter Product Feature"
+msgid "One-click fixes for most threats"
+msgstr "ການແກ້ໄຂໄພຄຸກຄາມສ່ວນໃຫຍ່ໃນຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-starter.php:80
+msgctxt "Starter Product Feature"
+msgid "Real-time cloud backups with 1GB storage"
+msgstr "ການສຳຮອງຂໍ້ມູນເທິງຄລາວແບບໃຊ້ເວລາຈິງ ພ້ອມພື້ນທີ່ 1GB"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-starter.php:61
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-starter.php:70
+msgid "Essential security tools: real-time backups and comment spam protection."
+msgstr "ເຄື່ອງມືຄວາມປອດໄພທີ່ຈຳເປັນ: ການສຳຮອງຂໍ້ມູນແບບໃຊ້ເວລາຈິງ ແລະ ການປ້ອງກັນສະແປມໃນຄວາມຄິດເຫັນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:168
+msgid "Something went wrong. Please try again."
+msgstr "ເກີດຂໍ້ຜິດພາດບາງຢ່າງ. ກະລຸນາລອງໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2805
+msgid "Sorry, something is wrong with your Jetpack connection."
+msgstr "ຂໍອະໄພ, ມີບາງຢ່າງຜິດພາດກັບການເຊື່ອມຕໍ່ Jetpack ຂອງທ່ານ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:61
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:70
+msgid "Comprehensive site security, including VaultPress Backup, Scan, and Akismet Anti-spam."
+msgstr "ຄວາມປອດໄພຂອງເວັບໄຊແບບຄົບວົງຈອນ, ລວມທັງ VaultPress Backup, Scan ແລະ Akismet Anti-spam."
+
+#: jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php:89
+msgid "Akismet Anti-spam"
+msgstr "Akismet Anti-spam"
+
+#. Plugin Name of the plugin
+#: jetpack-backup.php
+msgid "Jetpack VaultPress Backup"
+msgstr "Jetpack VaultPress Backup"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:185
+msgid "Success!"
+msgstr "ສຳເລັດ!"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:164
+msgctxt "Backup Product Disclaimer"
+msgid "Learn more"
+msgstr "ຮຽນຮູ້ເພີ່ມເຕີມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:163
+msgctxt "Backup Product Disclaimer"
+msgid "* Subject to your usage and storage limit."
+msgstr "* ຂຶ້ນກັບການນຳໃຊ້ ແລະ ຂີດຈຳກັດການເກັບຂໍ້ມູນຂອງທ່ານ."
+
+#. translators: URL to contact Jetpack support.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:227
+msgid "As always, feel free to <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">contact our support team</a> if you have any questions."
+msgstr "ທ່ານສາມາດ <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">ຕິດຕໍ່ທີມງານຊ່ວຍເຫຼືອຂອງພວກເຮົາ</a> ໄດ້ທຸກເວລາຫາກທ່ານມີຄຳຖາມ."
+
+#. translators: URL to Jetpack support doc regarding the primary user.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:211
+msgid "<a href='%s' target='_blank' rel='noopener noreferrer'>Learn more</a> about the connection owner and what will break if you do not have one."
+msgstr "<a href='%s' target='_blank' rel='noopener noreferrer'>ຮຽນຮູ້ເພີ່ມເຕີມ</a> ກ່ຽວກັບເຈົ້າຂອງການເຊື່ອມຕໍ່ ແລະ ຜົນກະທົບຫາກທ່ານບໍ່ມີເຈົ້າຂອງການເຊື່ອມຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:201
+msgid "Every Jetpack site needs at least one connected admin for the features to work properly. Please connect to your WordPress.com account via the button below. Once you connect, you may refresh this page to see an option to change the connection owner."
+msgstr "ທຸກເວັບໄຊ Jetpack ຕ້ອງການຜູ້ດູແລລະບົບທີ່ເຊື່ອມຕໍ່ຢ່າງໜ້ອຍໜຶ່ງຄົນເພື່ອໃຫ້ຟີເຈີຕ່າງໆເຮັດວຽກໄດ້ຢ່າງຖືກຕ້ອງ. ກະລຸນາເຊື່ອມຕໍ່ກັບບັນຊີ WordPress.com ຂອງທ່ານຜ່ານປຸ່ມລຸ່ມນີ້. ເມື່ອເຊື່ອມຕໍ່ແລ້ວ, ທ່ານສາມາດໂຫຼດໜ້ານີ້ໃໝ່ເພື່ອເບິ່ງຕົວເລືອກໃນການປ່ຽນເຈົ້າຂອງການເຊື່ອມຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:141
+msgid "Set new connection owner"
+msgstr "ຕັ້ງຄ່າເຈົ້າຂອງການເຊື່ອມຕໍ່ໃໝ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:123
+msgid "You can choose to transfer connection ownership to one of these already-connected admins:"
+msgstr "ທ່ານສາມາດເລືອກໂອນກຳມະສິດການເຊື່ອມຕໍ່ໃຫ້ກັບຜູ້ດູແລລະບົບທີ່ເຊື່ອມຕໍ່ແລ້ວເຫຼົ່ານີ້:"
+
+#. translators: WordPress User, if available.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:117
+msgid "Warning! You are about to delete the Jetpack connection owner (%s) for this site, which may cause some of your Jetpack features to stop working."
+msgstr "ຄຳເຕືອນ! ທ່ານກຳລັງຈະລຶບເຈົ້າຂອງການເຊື່ອມຕໍ່ Jetpack (%s) ສຳລັບເວັບໄຊນີ້, ຊຶ່ງອາດເຮັດໃຫ້ຟີເຈີ Jetpack ບາງຢ່າງຢຸດເຮັດວຽກ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:114
+msgid "Important notice about your Jetpack connection:"
+msgstr "ແຈ້ງເຕືອນສຳຄັນກ່ຽວກັບການເຊື່ອມຕໍ່ Jetpack ຂອງທ່ານ:"
+
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php:209
+msgid "Activating"
+msgstr "ກຳລັງເປີດໃຊ້"
+
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php:66
+msgid "New free service: Show Canada Post shipping rates on your store!"
+msgstr "ບໍລິການຟຣີໃໝ່: ສະແດງອັດຕາຄ່າຂົນສົ່ງ Canada Post ໃນຮ້ານຄ້າຂອງທ່ານ!"
+
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php:63
+msgid "New free service: Show USPS shipping rates on your store! Added bonus: print shipping labels without leaving WooCommerce."
+msgstr "ບໍລິການຟຣີໃໝ່: ສະແດງອັດຕາຄ່າຂົນສົ່ງ USPS ໃນຮ້ານຄ້າຂອງທ່ານ! ພິເສດ: ພິມສະຕິກເກີຂົນສົ່ງໄດ້ໂດຍບໍ່ຕ້ອງອອກຈາກ WooCommerce."
+
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php:208
+msgid "Activated"
+msgstr "ເປີດໃຊ້ງານແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-connection-notice.php:204
+msgid "Connect to WordPress.com"
+msgstr "ເຊື່ອມຕໍ່ກັບ WordPress.com"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-social.php:129
+msgid "Supports the major social networks"
+msgstr "ຮອງຮັບເຄືອຂ່າຍໂຊຊຽວຫຼັກໆ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-social.php:128
+msgid "Schedule publishing"
+msgstr "ກຳນົດເວລາການເຜີຍແຜ່"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-social.php:127
+msgid "Post to social networks"
+msgstr "ໂພສລົງເຄືອຂ່າຍໂຊຊຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:180
+msgid "Easy to navigate and use"
+msgstr "ນຳທາງ ແລະ ໃຊ້ງານໄດ້ງ່າຍ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:179
+msgid "Check plugin and theme version status"
+msgstr "ກວດສອບສະຖານະເວີຊັນຂອງປລັກອິນ ແລະ ທິດມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:178
+msgid "Daily automatic scans"
+msgstr "ສະແກນອັດຕະໂນມັດທຸກມື້"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php:177
+msgid "Over 20,000 listed vulnerabilities"
+msgstr "ມີລາຍການຊ່ອງໂຫວ່ຫຼາຍກວ່າ 20,000 ລາຍການ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:98
+msgctxt "Scan Product Feature"
+msgid "Access to latest Firewall rules"
+msgstr "ເຂົ້າເຖິງກົດລະບຽບ Firewall ຫຼ້າສຸດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-product.php:1031
+msgid "My Jetpack dashboard"
+msgstr "ແຜງຄວບຄຸມ Jetpack ຂອງຂ້ອຍ"
+
+#. translators: %s is a comma-separated list of license keys.
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php:230
+msgid "The following Jetpack licenses are invalid, already in use, or revoked: %s"
+msgstr "ໃບອະນຸຍາດ Jetpack ຕໍ່ໄປນີ້ບໍ່ຖືກຕ້ອງ, ຖືກໃຊ້ແລ້ວ ຫຼື ຖືກຍົກເລີກ: %s"
+
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php:211
+msgid "Failed to attach your Jetpack license(s). Please try reconnecting Jetpack."
+msgstr "ບໍ່ສາມາດແນບໃບອະນຸຍາດ Jetpack ຂອງທ່ານໄດ້. ກະລຸນາລອງເຊື່ອມຕໍ່ Jetpack ໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php:180
+msgid "License attach request failed."
+msgstr "ການຮ້ອງຂໍແນບໃບອະນຸຍາດລົ້ມເຫຼວ."
+
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php:170
+msgid "Jetpack doesn't have a connected owner."
+msgstr "Jetpack ບໍ່ມີເຈົ້າຂອງທີ່ເຊື່ອມຕໍ່."
+
+#. translators: %s: The literal parameter name. Should not be translated.
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:242
+msgid "%s must be a non-negative integer."
+msgstr "%s ຕ້ອງເປັນຕົວເລກຖ້ວນທີ່ບໍ່ແມ່ນຄ່າລົບ."
+
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:387
+msgid "Missing parameter \"last_detached_count\"."
+msgstr "ພາລາມິເຕີ \"last_detached_count\" ຫາຍໄປ."
+
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:298
+msgid "Could not set this license key. Please try again."
+msgstr "ບໍ່ສາມາດຕັ້ງຄ່າລະຫັດໃບອະນຸຍາດນີ້ໄດ້. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-product.php:1091
+#: jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php:74
+msgid "You are not allowed to install plugins on this site."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ຕິດຕັ້ງປລັກອິນໃນເວັບໄຊນີ້."
+
+#. translators: %s: The literal parameter name. Should not be translated.
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:219
+msgid "%s must be a string."
+msgstr "%s ຕ້ອງເປັນຂໍ້ຄວາມ (string)."
+
+#: jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php:101
+msgid "An unknown error occurred during installation"
+msgstr "ເກີດຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກໃນລະຫວ່າງການຕິດຕັ້ງ"
+
+#: jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php:95
+msgid "There was an error installing your plugin"
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການຕິດຕັ້ງປລັກອິນຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:145
+msgid "Supports 38 languages"
+msgstr "ຮອງຮັບ 38 ພາສາ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-hybrid-product.php:87
+msgid "Activation failed. Plugin is not installed"
+msgstr "ການເປີດໃຊ້ງານລົ້ມເຫຼວ. ປລັກອິນບໍ່ໄດ້ຖືກຕິດຕັ້ງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:83
+msgctxt "Security Product Feature"
+msgid "Comment & form spam protection"
+msgstr "ການປ້ອງກັນສະແປມໃນຄຳຄິດເຫັນ ແລະ ແບບຟອມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:82
+msgctxt "Security Product Feature"
+msgid "One-click fixes for most threats"
+msgstr "ແກ້ໄຂໄພຄຸກຄາມສ່ວນໃຫຍ່ດ້ວຍການຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:81
+msgctxt "Security Product Feature"
+msgid "Automated real-time malware scan"
+msgstr "ການສະແກນມັນແວແບບອັດຕະໂນມັດໃນເວລາຈິງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php:80
+msgctxt "Security Product Feature"
+msgid "Real-time cloud backups with 10GB storage"
+msgstr "ສຳຮອງຂໍ້ມູນເທິງຄລາວໃນເວລາຈິງດ້ວຍພື້ນທີ່ເກັບຂໍ້ມູນ 10GB"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:120
+msgid "Infinitely customizable with integrations and extensions"
+msgstr "ປັບແຕ່ງໄດ້ບໍ່ຈຳກັດດ້ວຍການເຊື່ອມຕໍ່ ແລະ ສ່ວນເສີມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:119
+msgid "Fully integrated with WordPress & WooCommerce"
+msgstr "ເຊື່ອມຕໍ່ກັບ WordPress ແລະ WooCommerce ໄດ້ຢ່າງສົມບູນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:118
+msgid "Manage billing and create invoices"
+msgstr "ຈັດການການຮຽກເກັບເງິນ ແລະ ສ້າງໃບແຈ້ງໜີ້"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php:117
+msgid "Manage unlimited contacts"
+msgstr "ຈັດການລາຍຊື່ຜູ້ຕິດຕໍ່ໄດ້ບໍ່ຈຳກັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-wpcom-products.php:109
+msgid "Unable to fetch the products list from WordPress.com"
+msgstr "ບໍ່ສາມາດດຶງລາຍຊື່ຜະລິດຕະພັນຈາກ WordPress.com ໄດ້"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:146
+msgid "Spelling correction"
+msgstr "ການແກ້ໄຂຕົວສະກົດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:144
+msgid "Powerful filtering"
+msgstr "ການກັ່ນຕອງທີ່ມີປະສິດທິພາບ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:143
+msgid "Instant search and indexing"
+msgstr "ການຄົ້ນຫາ ແລະ ເຮັດດັດຊະນີທັນທີ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:138
+msgid "Standalone free plugin for those focused on speed"
+msgstr "ປລັກອິນຟຣີແບບສະແຕນອາໂລນ ສຳລັບຜູ້ທີ່ເນັ້ນເລື່ອງຄວາມໄວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:137
+msgid "Enable improvements in one click"
+msgstr "ເປີດໃຊ້ການປັບປຸງໄດ້ດ້ວຍການຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php:136
+msgid "Check your site performance"
+msgstr "ກວດສອບປະສິດທິພາບເວັບໄຊຂອງທ່ານ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-hybrid-product.php:122
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-hybrid-product.php:151
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-module-product.php:150
+msgid "Error activating Jetpack module"
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການເປີດໃຊ້ໂມດູນ Jetpack"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-module-product.php:144
+msgid "Error activating Jetpack plugin"
+msgstr "ເກີດຂໍ້ຜິດພາດໃນການເປີດໃຊ້ປລັກອິນ Jetpack"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php:222
+msgid "The product argument must be a string."
+msgstr "ອາຄິວເມນ (Argument) ຂອງຜະລິດຕະພັນຕ້ອງເປັນຂໍ້ຄວາມ (String)."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:69
+msgid "Basic tools for a successful site"
+msgstr "ເຄື່ອງມືພື້ນຖານສຳລັບເວັບໄຊທີ່ປະສົບຜົນສຳເລັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php:410
+msgid "Production action to execute"
+msgstr "ການດຳເນີນການຂອງຜະລິດຕະພັນທີ່ຈະປະຕິບັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php:403
+msgid "Product slug"
+msgstr "ສະລັກ (Slug) ຂອງຜະລິດຕະພັນ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:150
+msgctxt "Backup Product Feature"
+msgid "30-day archive & activity log*"
+msgstr "ບົດເກັບມ້ຽນຂໍ້ມູນ 30 ວັນ ແລະ ບັນທຶກກິດຈະກຳ*"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:148
+msgctxt "Backup Product Feature"
+msgid "Real-time cloud backups"
+msgstr "ສຳຮອງຂໍ້ມູນເທິງຄລາວໃນເວລາຈິງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:166
+msgctxt "VideoPress Product Feature"
+msgid "Unlimited users"
+msgstr "ຜູ້ໃຊ້ບໍ່ຈຳກັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:165
+msgctxt "VideoPress Product Feature"
+msgid "Ad-free and customizable player"
+msgstr "ເຄື່ອງຫຼິ້ນທີ່ບໍ່ມີໂຄສະນາ ແລະ ປັບແຕ່ງໄດ້"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:164
+msgctxt "VideoPress Product Feature"
+msgid "Built into WordPress editor"
+msgstr "ຕິດຕັ້ງມາພ້ອມກັບຕົວແກ້ໄຂ WordPress"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php:163
+msgctxt "VideoPress Product Feature"
+msgid "1TB of storage"
+msgstr "ພື້ນທີ່ເກັບຂໍ້ມູນ 1TB"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php:123
+msgctxt "Anti-Spam Product Feature"
+msgid "Advanced stats"
+msgstr "ສະຖິຕິຂັ້ນສູງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php:122
+msgctxt "Anti-Spam Product Feature"
+msgid "Block spam without CAPTCHAs"
+msgstr "ບລັອກສະແປມໂດຍບໍ່ຕ້ອງໃຊ້ CAPTCHA"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php:121
+msgctxt "Anti-Spam Product Feature"
+msgid "Comment and form spam protection"
+msgstr "ການປ້ອງກັນສະແປມໃນຄຳຄິດເຫັນ ແລະ ແບບຟອມ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php:111
+msgid "Save time and get better responses by automatically blocking spam from your comments and forms."
+msgstr "ປະຢັດເວລາ ແລະ ໄດ້ຮັບການຕອບຮັບທີ່ດີກວ່າໂດຍການບລັອກສະແປມຈາກຄຳຄິດເຫັນ ແລະ ແບບຟອມຂອງທ່ານໂດຍອັດຕະໂນມັດ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php:133
+msgid "Help your site visitors find answers instantly so they keep reading and buying. Great for sites with a lot of content."
+msgstr "ຊ່ວຍໃຫ້ຜູ້ເຂົ້າຊົມເວັບໄຊຂອງທ່ານຊອກຫາຄຳຕອບໄດ້ທັນທີ ເພື່ອໃຫ້ເຂົາເຈົ້າອ່ານ ແລະ ຊື້ຕໍ່ໄປ. ເໝາະສຳລັບເວັບໄຊທີ່ມີເນື້ອຫາຫຼາຍ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:97
+msgctxt "Scan Product Feature"
+msgid "Instant email notifications"
+msgstr "ການແຈ້ງເຕືອນທາງອີເມວທັນທີ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:96
+msgctxt "Scan Product Feature"
+msgid "One-click fixes for most issues"
+msgstr "ແກ້ໄຂບັນຫາສ່ວນໃຫຍ່ດ້ວຍການຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:95
+msgctxt "Scan Product Feature"
+msgid "Automated daily scanning"
+msgstr "ການສະແກນລາຍວັນແບບອັດຕະໂນມັດ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php:85
+msgid "Automatic scanning and one-click fixes keep your site one step ahead of security threats and malware."
+msgstr "ການສະແກນອັດຕະໂນມັດ ແລະ ການແກ້ໄຂດ້ວຍການຄລິກດຽວ ຊ່ວຍໃຫ້ເວັບໄຊຂອງທ່ານປອດໄພຈາກໄພຄຸກຄາມ ແລະ ມັນແວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:149
+msgctxt "Backup Product Feature"
+msgid "10GB of backup storage"
+msgstr "ພື້ນທີ່ເກັບຂໍ້ມູນສຳຮອງ 10GB"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:151
+msgctxt "Backup Product Feature"
+msgid "One-click restores"
+msgstr "ກູ້ຄືນຂໍ້ມູນດ້ວຍການຄລິກດຽວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php:138
+msgid "Never lose a word, image, page, or time worrying about your site with automated backups & one-click restores."
+msgstr "ບໍ່ຕ້ອງເສຍເນື້ອຫາ, ຮູບພາບ, ໜ້າເວັບ ຫຼື ເສຍເວລາໃນການກັງວົນກ່ຽວກັບເວັບໄຊຂອງທ່ານອີກຕໍ່ໄປ ດ້ວຍການສຳຮອງຂໍ້ມູນອັດຕະໂນມັດ ແລະ ການກູ້ຄືນດ້ວຍການຄລິກດຽວ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-product.php:963
+#: jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php:53
+msgid "You are not allowed to activate plugins on this site."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເປີດໃຊ້ປລັກອິນໃນເວັບໄຊນີ້."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-purchases.php:50
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-recommendations-evaluation.php:76
+msgid "Your site is not connected to Jetpack."
+msgstr "ເວັບໄຊຂອງທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Jetpack."
+
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php:207
+msgid "Activate"
+msgstr "ເປີດໃຊ້ງານ"
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:297
+msgid "The required \"nonce\" parameter is missing."
+msgstr "ພາລາມິເຕີ \"nonce\" ທີ່ຈຳເປັນຫາຍໄປ."
+
+#. translators: 1: wp_default_scripts. 2: Name of the domain being aliased.
+#: jetpack_vendor/automattic/jetpack-assets/src/class-assets.php:580
+msgid "Textdomain aliases should be registered before the %1$s hook. This notice was triggered by the %2$s domain."
+msgstr "ນາມແຝງ Textdomain ຄວນຖືກລົງທະບຽນກ່ອນຮຸກ (Hook) %1$s. ການແຈ້ງເຕືອນນີ້ຖືກກະຕຸ້ນໂດຍໂດເມນ %2$s."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php:86
+msgid "No valid event name or type."
+msgstr "ບໍ່ມີຊື່ ຫຼື ປະເພດເຫດການທີ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:338
+msgid "Do we want the checksum or object ids."
+msgstr "ພວກເຮົາຕ້ອງການ Checksum ຫຼື ID ຂອງວັດຖຸ."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:333
+msgid "Should only range edges be returned"
+msgstr "ຄວນສົ່ງຄືນສະເພາະຂອບເຂດສິ້ນສຸດເທົ່ານັ້ນ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:328
+msgid "Shared Salt to use when generating checksum"
+msgstr "ຄ່າ Salt ທີ່ໃຊ້ຮ່ວມກັນໃນການສ້າງ Checksum"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:323
+msgid "Strip non-ascii characters?"
+msgstr "ຕັດຕົວອັກສອນທີ່ບໍ່ແມ່ນ ascii ອອກບໍ?"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:318
+msgid "End ID for the histogram"
+msgstr "ID ສິ້ນສຸດສຳລັບຮິດໂຕແກຣມ (Histogram)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:313
+msgid "Start ID for the histogram"
+msgstr "ID ເລີ່ມຕົ້ນສຳລັບຮິດໂຕແກຣມ (Histogram)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:308
+msgid "Number of histogram buckets."
+msgstr "ຈຳນວນຖັງ (Buckets) ຂອງຮິດໂຕແກຣມ."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:298
+msgid "Column mappings"
+msgstr "ການຈັບຄູ່ຖັນ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:280
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:343
+msgid "If text fields should be converted to latin1 in checksum calculation."
+msgstr "ຫາກຟິວ (Field) ຂໍ້ຄວາມຄວນຖືກແປງເປັນ latin1 ໃນການຄຳນວນ Checksum."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:262
+msgid "Size of batches"
+msgstr "ຂະໜາດຂອງຊຸດຂໍ້ມູນ (Batches)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:257
+msgid "Name of Sync module."
+msgstr "ຊື່ຂອງໂມດູນການຊິງຄ໌ (Sync)."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:162
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:180
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:239
+msgid "Name of Sync queue."
+msgstr "ຊື່ຂອງຄິວ (Queue) ການຊິງຄ໌."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:144
+msgid "Objects Identifiers"
+msgstr "ຕົວລະບຸວັດຖຸ (Objects Identifiers)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:139
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:303
+msgid "Object Type"
+msgstr "ປະເພດວັດຖຸ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:134
+msgid "Name of Sync module"
+msgstr "ຊື່ຂອງໂມດູນການຊິງຄ໌"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:98
+msgid "New Sync health status"
+msgstr "ສະຖານະສຸຂະພາບການຊິງຄ໌ໃໝ່"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:80
+msgid "Comma-separated list of additional fields that should be included in status."
+msgstr "ລາຍຊື່ຟິວເພີ່ມເຕີມທີ່ແຍກດ້ວຍຈຸດທີ່ຄວນລວມຢູ່ໃນສະຖານະ."
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:57
+msgid "Comment IDs to include in Full Sync"
+msgstr "ID ຄຳຄິດເຫັນທີ່ຈະລວມຢູ່ໃນການຊິງຄ໌ແບບເຕັມ (Full Sync)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:52
+msgid "Post IDs to include in Full Sync"
+msgstr "ID ໂພສທີ່ຈະລວມຢູ່ໃນການຊິງຄ໌ແບບເຕັມ (Full Sync)"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:48
+msgid "User IDs to include in Full Sync or \"initial\""
+msgstr "ID ຜູ້ໃຊ້ທີ່ຈະລວມຢູ່ໃນການຊິງຄ໌ແບບເຕັມ ຫຼື \"ເລີ່ມຕົ້ນ\""
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:43
+msgid "Data Modules that should be included in Full Sync"
+msgstr "ໂມດູນຂໍ້ມູນທີ່ຄວນລວມຢູ່ໃນການຊິງຄ໌ແບບເຕັມ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-actions.php:505
+msgid "Sync has been aborted because the IXR client is missing."
+msgstr "ການຊິງຄ໌ຖືກຍົກເລີກ ເພາະຂາດ IXR client."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:254
+msgid "Your password is too weak: Looks like you are including easy to guess information about yourself. Try something a little more unique."
+msgstr "ລະຫັດຜ່ານຂອງທ່ານອ່ອນເກີນໄປ: ເບິ່ງຄືວ່າທ່ານໄດ້ລວມເອົາຂໍ້ມູນທີ່ເດົາໄດ້ງ່າຍກ່ຽວກັບຕົວທ່ານເອງ. ລອງໃຊ້ສິ່ງທີ່ແຕກຕ່າງ ແລະ ເປັນເອກະລັກກວ່າ."
+
+#. translators: %s is the full datetime of the last heart beat e.g. 2020-01-01
+#. 12:21:23
+#: jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php:256
+msgid "Last heartbeat sent at: %s"
+msgstr "ສົ່ງສັນຍານ Heartbeat ຄັ້ງຫຼ້າສຸດເມື່ອ: %s"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:460
+msgid "Invalid blog token"
+msgstr "ໂທເຄັນ (Token) ຂອງບລັອກບໍ່ຖືກຕ້ອງ"
+
+#. translators: %d is the user ID.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:458
+msgid "Invalid token for user %d"
+msgstr "ໂທເຄັນບໍ່ຖືກຕ້ອງສຳລັບຜູ້ໃຊ້ %d"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:431
+msgid "No blog token found"
+msgstr "ບໍ່ພົບໂທເຄັນຂອງບລັອກ"
+
+#. translators: %1$d is the ID of the requested user. %2$d is the user ID found
+#. in the token.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:400
+msgid "Requesting user_id %1$d does not match token user_id %2$d"
+msgstr "User_id %1$d ທີ່ຮ້ອງຂໍບໍ່ກົງກັບ user_id %2$d ໃນໂທເຄັນ"
+
+#. translators: %s is the user ID.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:396
+msgid "Token for user %d is malformed"
+msgstr "ໂທເຄັນສຳລັບຜູ້ໃຊ້ %d ຜິດຮູບແບບ"
+
+#. translators: %s is the user ID.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:391
+msgid "No token for user %d"
+msgstr "ບໍ່ມີໂທເຄັນສຳລັບຜູ້ໃຊ້ %d"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:386
+msgid "No primary user defined"
+msgstr "ບໍ່ໄດ້ກຳນົດຜູ້ໃຊ້ຫຼັກ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:381
+msgid "No user tokens found"
+msgstr "ບໍ່ພົບໂທເຄັນຂອງຜູ້ໃຊ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:259
+msgid "Secret mismatch"
+msgstr "ລະຫັດລັບບໍ່ກົງກັນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:251
+msgid "Verification secrets are incomplete"
+msgstr "ລະຫັດລັບໃນການກວດສອບບໍ່ສົມບູນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:240
+msgid "Verification secrets are empty"
+msgstr "ລະຫັດລັບໃນການກວດສອບຫວ່າງເປົ່າ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:232
+msgid "Verification took too long"
+msgstr "ການກວດສອບໃຊ້ເວລາດົນເກີນໄປ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:224
+msgid "Verification secrets not found"
+msgstr "ບໍ່ພົບລະຫັດລັບໃນການກວດສອບ"
+
+#. translators: "%s" is the name of a paramter. It can be either "secret_1" or
+#. "state".
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:197
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:216
+msgid "The required \"%s\" parameter is malformed."
+msgstr "ພາລາມິເຕີ \"%s\" ທີ່ຈຳເປັນຜິດຮູບແບບ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:922
+msgid "Failed to disconnect the site as it appears already disconnected."
+msgstr "ບໍ່ສາມາດຕັດການເຊື່ອມຕໍ່ເວັບໄຊໄດ້ ເພາະເບິ່ງຄືວ່າໄດ້ຖືກຕັດການເຊື່ອມຕໍ່ໄປແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:879
+msgid "Site is not connected"
+msgstr "ເວັບໄຊບໍ່ໄດ້ເຊື່ອມຕໍ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:873
+msgid "Invalid user id is provided"
+msgstr "ID ຜູ້ໃຊ້ທີ່ລະບຸບໍ່ຖືກຕ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:867
+msgid "Invalid user token is provided"
+msgstr "ໂທເຄັນຜູ້ໃຊ້ທີ່ລະບຸບໍ່ຖືກຕ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:299
+msgid "New owner"
+msgstr "ເຈົ້າຂອງໃໝ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:281
+msgid "Is connection owner"
+msgstr "ແມ່ນເຈົ້າຂອງການເຊື່ອມຕໍ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:276
+msgid "New user token"
+msgstr "ໂທເຄັນຜູ້ໃຊ້ໃໝ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:242
+msgid "Indicates from what plugin the request is coming from"
+msgstr "ລະບຸວ່າຄຳຮ້ອງຂໍມາຈາກປລັກອິນໃດ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:238
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:259
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:62
+msgid "URI of the admin page where the user should be redirected after connection flow"
+msgstr "URI ຂອງໜ້າຜູ້ດູແລລະບົບທີ່ຜູ້ໃຊ້ຄວນຖືກປ່ຽນເສັ້ນທາງໄປຫາຫຼັງຈາກຂັ້ນຕອນການເຊື່ອມຕໍ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:234
+msgid "Indicates where the registration action was triggered for tracking/segmentation purposes"
+msgstr "ລະບຸວ່າການລົງທະບຽນຖືກກະຕຸ້ນຈາກໃສ ເພື່ອຈຸດປະສົງໃນການຕິດຕາມ ຫຼື ແບ່ງສ່ວນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:159
+msgid "The isActive argument should be set to false."
+msgstr "ອາຄິວເມນ isActive ຄວນຖືກຕັ້ງເປັນ false."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:154
+msgid "Set to false will trigger the site to disconnect."
+msgstr "ການຕັ້ງເປັນ false ຈະກະຕຸ້ນໃຫ້ເວັບໄຊຕັດການເຊື່ອມຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-authentication.php:125
+msgid "The request method is missing."
+msgstr "ວິທີການຮ້ອງຂໍ (Request method) ຫາຍໄປ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-plugin-storage.php:131
+msgid "You cannot call this method until Jetpack Config is configured"
+msgstr "ທ່ານບໍ່ສາມາດຮຽກໃຊ້ວິທີການນີ້ໄດ້ ຈົນກວ່າ Jetpack Config ຈະຖືກຕັ້ງຄ່າ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1984
+msgid "Invalid Registration State"
+msgstr "ສະຖານະການລົງທະບຽນບໍ່ຖືກຕ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1136
+msgid "New owner is same as existing owner"
+msgstr "ເຈົ້າຂອງໃໝ່ແມ່ນຄົນດຽວກັນກັບເຈົ້າຂອງເດີມ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-error-handler.php:236
+msgid "Your connection with WordPress.com seems to be broken. If you're experiencing issues, please try reconnecting."
+msgstr "ການເຊື່ອມຕໍ່ຂອງທ່ານກັບ WordPress.com ເບິ່ງຄືວ່າມີບັນຫາ. ຫາກທ່ານພົບກັບບັນຫາໃດໜຶ່ງ, ກະລຸນາລອງເຊື່ອມຕໍ່ໃໝ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:368
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:448
+msgid "Blog is already registered"
+msgstr "ບລັອກໄດ້ຖືກລົງທະບຽນແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1263
+msgid "Jetpack experienced an issue trying to save options (cannot_save_secrets). We suggest that you contact your hosting provider, and ask them for help checking that the options table is writable on your site."
+msgstr "Jetpack ພົບບັນຫາໃນການພະຍາຍາມບັນທຶກຕົວເລືອກ (cannot_save_secrets). ພວກເຮົາແນະນຳໃຫ້ທ່ານຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການໂຮສຕິງຂອງທ່ານ ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອໃນການກວດສອບວ່າຕາຕະລາງ options ໃນເວັບໄຊຂອງທ່ານສາມາດຂຽນຂໍ້ມູນໄດ້."
+
+#. translators: %1$s is a PHP class name.
+#: jetpack_vendor/automattic/jetpack-config/src/class-config.php:188
+msgid "Unable to load class %1$s. Please add the package that contains it using composer and make sure you are requiring the Jetpack autoloader"
+msgstr "ບໍ່ສາມາດໂຫຼດຄລາສ %1$s ໄດ້. ກະລຸນາເພີ່ມແພັກເກັດທີ່ມີຄລາສດັ່ງກ່າວໂດຍໃຊ້ composer ແລະ ໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຮຽກໃຊ້ Jetpack autoloader"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:251
+msgid "You are not allowed to perform this action."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ດຳເນີນການນີ້."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:148
+msgid "The name argument should be an option name or an array of option names"
+msgstr "ອາຄິວເມນ name ຄວນເປັນຊື່ຕົວເລືອກ ຫຼື ອາເຣ (Array) ຂອງຊື່ຕົວເລືອກ"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:144
+msgid "One or more option names to include in the backup"
+msgstr "ຊື່ຕົວເລືອກໜຶ່ງຢ່າງ ຫຼື ຫຼາຍກວ່ານັ້ນທີ່ຈະລວມຢູ່ໃນການສຳຮອງຂໍ້ມູນ"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:126
+msgid "ID of the database object to fetch"
+msgstr "ID ຂອງວັດຖຸໃນຖານຂໍ້ມູນທີ່ຈະດຶງມາ"
+
+#. translators: %s: comma-separated list of allowed object types
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:115
+msgid "The object_type argument should be one of %s"
+msgstr "ອາຄິວເມນ object_type ຄວນເປັນໜຶ່ງໃນ %s"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:103
+msgid "The object_type argument must be a non-empty string."
+msgstr "ອາຄິວເມນ object_type ຕ້ອງເປັນຂໍ້ຄວາມ (String) ທີ່ບໍ່ຫວ່າງເປົ່າ."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:97
+msgid "Type of object to fetch from the database"
+msgstr "ປະເພດຂອງວັດຖຸທີ່ຈະດຶງມາຈາກຖານຂໍ້ມູນ"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:79
+msgid "Path to Backup Helper Script"
+msgstr "ເສັ້ນທາງ (Path) ໄປຫາ Backup Helper Script"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:61
+msgid "base64 encoded Backup Helper Script body."
+msgstr "ເນື້ອຫາ Backup Helper Script ທີ່ຖືກເຂົ້າລະຫັດ base64."
+
+#. translators: %s is the script handle.
+#: jetpack_vendor/automattic/jetpack-assets/src/class-assets.php:407
+msgid "Script \"%s\" depends on wp-i18n but does not specify \"textdomain\""
+msgstr "ສະຄຣິບ \"%s\" ຂຶ້ນກັບ wp-i18n ແຕ່ບໍ່ໄດ້ລະບຸ \"textdomain\""
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:91
+msgid "Enhance your site with dozens of other features"
+msgstr "ເສີມປະສິດທິພາບເວັບໄຊຂອງທ່ານດ້ວຍຟີເຈີອື່ນໆອີກຫຼາຍສິບຢ່າງ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:90
+msgid "Get notifications if your site goes offline"
+msgstr "ຮັບການແຈ້ງເຕືອນຫາກເວັບໄຊຂອງທ່ານອອຟລາຍ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:89
+msgid "Protect your site against bot attacks"
+msgstr "ປົກປ້ອງເວັບໄຊຂອງທ່ານຈາກການໂຈມຕີຂອງບັອດ (Bot)"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:88
+msgid "Speed up your site with optimized images"
+msgstr "ເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊຂອງທ່ານດ້ວຍຮູບພາບທີ່ປັບແຕ່ງແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php:78
+msgid "Secure and speed up your site for free with Jetpack's powerful WordPress tools."
+msgstr "ເຮັດໃຫ້ເວັບໄຊຂອງທ່ານປອດໄພ ແລະ ໄວຂຶ້ນໄດ້ຟຣີ ດ້ວຍເຄື່ອງມື WordPress ທີ່ມີປະສິດທິພາບຂອງ Jetpack."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php:78
+msgid "You aren’t authorized to do that."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເຮັດແບບນັ້ນ."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:281
+msgid "Helper script body must be base64 encoded"
+msgstr "ສ່ວນເນື້ອໃນຂອງສະຄຣິບຊ່ວຍ (Helper script) ຕ້ອງຖືກເຂົ້າລະຫັດແບບ base64"
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:175
+msgid "User not found."
+msgstr "ບໍ່ພົບຜູ້ໃຊ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:162
+msgid "Invalid user identifier."
+msgstr "ລະຫັດລະບຸຕົວຕົນຜູ້ໃຊ້ບໍ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:248
+msgid "This is a very common password. Choose something that will be harder for others to guess."
+msgstr "ນີ້ແມ່ນລະຫັດຜ່ານທີ່ໃຊ້ກັນຫຼາຍເກີນໄປ. ໃຫ້ເລືອກອັນອື່ນທີ່ຄົນອື່ນເດົາໄດ້ຍາກກວ່າ."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:240
+msgid "This password is too easy to guess: you can improve it by including special characters such as !#=?*&."
+msgstr "ລະຫັດຜ່ານນີ້ເດົາງ່າຍເກີນໄປ: ທ່ານສາມາດປັບປຸງໄດ້ໂດຍການໃສ່ຕົວອັກສອນພິເສດ ເຊັ່ນ !#=?*&."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:235
+msgid "This password is too easy to guess: you can improve it by mixing both letters and numbers."
+msgstr "ລະຫັດຜ່ານນີ້ເດົາງ່າຍເກີນໄປ: ທ່ານສາມາດປັບປຸງໄດ້ໂດຍການໃຊ້ທັງຕົວອັກສອນ ແລະ ຕົວເລກປະສົມກັນ."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:230
+msgid "This password is too easy to guess: you can improve it by adding additional uppercase letters, lowercase letters, or numbers."
+msgstr "ລະຫັດຜ່ານນີ້ເດົາງ່າຍເກີນໄປ: ທ່ານສາມາດປັບປຸງໄດ້ໂດຍການເພີ່ມຕົວອັກສອນພິມໃຫຍ່, ພິມນ້ອຍ ຫຼື ຕົວເລກ."
+
+#. translators: %d is a number of characters in the password.
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:224
+msgid "Password must be at least %d characters."
+msgstr "ລະຫັດຜ່ານຕ້ອງມີຢ່າງໜ້ອຍ %d ຕົວອັກສອນ."
+
+#: jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php:217
+msgid "Passwords may not contain the character \"\\\"."
+msgstr "ລະຫັດຜ່ານຕ້ອງບໍ່ມີຕົວອັກສອນ \"\\\"."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:345
+msgid "Object not found"
+msgstr "ບໍ່ພົບວັດຖຸ"
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:501
+msgid "Failed to fetch user token from WordPress.com."
+msgstr "ດຶງຂໍ້ມູນໂທເຄັນຜູ້ໃຊ້ຈາກ WordPress.com ບໍ່ສຳເລັດ."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:477
+msgid "A non-empty nonce must be supplied."
+msgstr "ຕ້ອງລະບຸຄ່າ nonce ທີ່ບໍ່ແມ່ນຄ່າວ່າງ."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:466
+msgid "Valid user is required."
+msgstr "ຈຳເປັນຕ້ອງມີຜູ້ໃຊ້ທີ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:453
+msgid "Jetpack is already connected."
+msgstr "Jetpack ໄດ້ຖືກເຊື່ອມຕໍ່ແລ້ວ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1167
+msgid "Could not confirm new owner."
+msgstr "ບໍ່ສາມາດຢືນຢັນເຈົ້າຂອງໃໝ່ໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1144
+msgid "New owner is not connected"
+msgstr "ເຈົ້າຂອງໃໝ່ບໍ່ໄດ້ເຊື່ອມຕໍ່"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1126
+msgid "New owner is not admin"
+msgstr "ເຈົ້າຂອງໃໝ່ບໍ່ແມ່ນຜູ້ດູແລລະບົບ"
+
+#. translators: %s is UTC offset, e.g. "+1"
+#: jetpack_vendor/automattic/jetpack-sync/src/class-functions.php:541
+msgid "UTC%s"
+msgstr "UTC%s"
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:532
+msgid "The required \"local_user\" parameter is missing."
+msgstr "ພາຣາມິເຕີ \"local_user\" ທີ່ຈຳເປັນຫາຍໄປ."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:322
+msgid "There was an issue validating this request."
+msgstr "ມີບັນຫາໃນການກວດສອບຄຳຮ້ອງຂໍນີ້."
+
+#. translators: "%s" is the name of a paramter. It can be either "secret_1" or
+#. "state".
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:188
+#: jetpack_vendor/automattic/jetpack-connection/src/class-secrets.php:207
+msgid "The required \"%s\" parameter is missing."
+msgstr "ພາຣາມິເຕີ \"%s\" ທີ່ຈຳເປັນຫາຍໄປ."
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:284
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:386
+msgid "Valid user is required"
+msgstr "ຈຳເປັນຕ້ອງມີຜູ້ໃຊ້ທີ່ຖືກຕ້ອງ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/modules/class-plugins.php:262
+msgid "Unknown Plugin Update Failure"
+msgstr "ຄວາມລົ້ມເຫຼວໃນການອັບເດດປລັກອິນທີ່ບໍ່ຮູ້ສາເຫດ"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup.php:554
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:332
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:367
+#: jetpack_vendor/automattic/jetpack-protect-status/src/class-plan.php:84
+msgid "Unable to fetch the requested data."
+msgstr "ບໍ່ສາມາດດຶງຂໍ້ມູນທີ່ຮ້ອງຂໍໄດ້."
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:522
+msgid "User not found"
+msgstr "ບໍ່ພົບຜູ້ໃຊ້"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:496
+msgid "Term not found"
+msgstr "ບໍ່ພົບຄຳສັບ (term)"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:409
+msgid "Comment not found"
+msgstr "ບໍ່ພົບຄວາມຄິດເຫັນ"
+
+#: jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php:343
+msgid "There was an unspecified error registering the site"
+msgstr "ມີຂໍ້ຜິດພາດທີ່ບໍ່ໄດ້ລະບຸໃນການລົງທະບຽນເວັບໄຊ"
+
+#: jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php:460
+msgid "Post not found"
+msgstr "ບໍ່ພົບໂພສ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-authentication.php:180
+msgid "The request is not signed correctly."
+msgstr "ຄຳຮ້ອງຂໍບໍ່ໄດ້ຖືກເຊັນຢ່າງຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-authentication.php:146
+msgid "This request method does not support body parameters."
+msgstr "ວິທີການຄຳຮ້ອງຂໍນີ້ບໍ່ຮອງຮັບພາລາມິເຕີໃນສ່ວນເນື້ອຫາ (body parameters)."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-authentication.php:138
+msgid "This request method is not supported."
+msgstr "ບໍ່ຮອງຮັບວິທີການຄຳຮ້ອງຂໍນີ້."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1536
+msgid "PHP's XML extension is not available. Jetpack requires the XML extension to communicate with WordPress.com. Please contact your hosting provider to enable PHP's XML extension."
+msgstr "ບໍ່ມີສ່ວນຂະຫຍາຍ XML ຂອງ PHP. Jetpack ຕ້ອງການສ່ວນຂະຫຍາຍ XML ເພື່ອຕິດຕໍ່ສື່ສານກັບ WordPress.com. ກະລຸນາຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການໂຮສຕິ່ງຂອງທ່ານເພື່ອເປີດໃຊ້ສ່ວນຂະຫຍາຍ XML ຂອງ PHP."
+
+#. translators: %d is an integer indicating the number of minutes.
+#: jetpack_vendor/automattic/jetpack-sync/src/class-actions.php:676
+msgid "Every %d minutes"
+msgstr "ທຸກໆ %d ນາທີ"
+
+#: jetpack_vendor/automattic/jetpack-sync/src/class-actions.php:573
+msgid "Sync has been blocked from WordPress.com because it would cause an identity crisis"
+msgstr "ການຊິ້ງຂໍ້ມູນຖືກບລັອກຈາກ WordPress.com ເນື່ອງຈາກມັນຈະເຮັດໃຫ້ເກີດບັນຫາຕົວຕົນ (identity crisis)"
+
+#. translators: %s: URL to parse.
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php:762
+msgid "Cannot parse URL %s"
+msgstr "ບໍ່ສາມາດວິເຄາະ URL %s ໄດ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-identity-crisis.php:255
+msgid "Jetpack Safe Mode"
+msgstr "ໂໝດປອດໄພຂອງ Jetpack"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:161
+msgid "Could not confirm migration."
+msgstr "ບໍ່ສາມາດຢືນຢັນການຍ້າຍຂໍ້ມູນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:147
+msgid "Could not delete sync error option."
+msgstr "ບໍ່ສາມາດລຶບຕົວເລືອກຂໍ້ຜິດພາດໃນການຊິ້ງຂໍ້ມູນ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:130
+msgid "Could not confirm safe mode."
+msgstr "ບໍ່ສາມາດຢືນຢັນໂໝດປອດໄພ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-rest-connector.php:58
+#: jetpack_vendor/automattic/jetpack-connection/src/identity-crisis/class-rest-endpoints.php:221
+#: jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php:36
+#: jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php:934
+msgid ""
+"You do not have the correct user permissions to perform this action.\n"
+"\t\t\tPlease contact your site admin if you think this is a mistake."
+msgstr "ທ່ານບໍ່ມີສິດອະນຸຍາດທີ່ຖືກຕ້ອງເພື່ອດຳເນີນການນີ້. ກະລຸນາຕິດຕໍ່ຜູ້ດູແລລະບົບເວັບໄຊຂອງທ່ານ ຫາກທ່ານຄິດວ່ານີ້ແມ່ນຂໍ້ຜິດພາດ."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2574
+msgid "The Client ID/WP.com Blog ID of this site"
+msgstr "ໄອດີໄຄລແອນ (Client ID) / ໄອດີບລັອກ WordPress.com ຂອງເວັບໄຊນີ້"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2568
+msgid "Jetpack Plugin Version"
+msgstr "ເວີຊັນຂອງປລັກອິນ Jetpack"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2546
+msgid "The number of sites of the connected WP.com user"
+msgstr "ຈຳນວນເວັບໄຊຂອງຜູ້ໃຊ້ WordPress.com ທີ່ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2541
+msgid "The WP.com user email of the connected user"
+msgstr "ອີເມວຜູ້ໃຊ້ WordPress.com ທີ່ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2536
+msgid "The WP.com username of the connected user"
+msgstr "ຊື່ຜູ້ໃຊ້ WordPress.com ທີ່ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2531
+msgid "The WP.com user ID of the connected user"
+msgstr "ໄອດີ (ID) ຜູ້ໃຊ້ WordPress.com ທີ່ເຊື່ອມຕໍ່ແລ້ວ"
+
+#. translators: %s is an error message string
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1571
+msgid "Error Details: Jetpack ID begins with a numeral. Do not publicly post this error message! %s"
+msgstr "ລາຍລະອຽດຂໍ້ຜິດພາດ: ໄອດີ Jetpack ເລີ່ມຕົ້ນດ້ວຍຕົວເລກ. ຫ້າມໂພສຂໍ້ຄວາມຂໍ້ຜິດພາດນີ້ເປັນສາທາລະນະ! %s"
+
+#. translators: %s is an error message string
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1564
+msgid "Error Details: Jetpack ID is not a scalar. Do not publicly post this error message! %s"
+msgstr "ລາຍລະອຽດຂໍ້ຜິດພາດ: ໄອດີ Jetpack ບໍ່ແມ່ນຄ່າສະເຄລາ (scalar). ຫ້າມໂພສຂໍ້ຄວາມຂໍ້ຜິດພາດນີ້ເປັນສາທາລະນະ! %s"
+
+#. translators: %s is an error message string
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:1557
+msgid "Error Details: Jetpack ID is empty. Do not publicly post this error message! %s"
+msgstr "ລາຍລະອຽດຂໍ້ຜິດພາດ: ໄອດີ Jetpack ວ່າງເປົ່າ. ຫ້າມໂພສຂໍ້ຄວາມຂໍ້ຜິດພາດນີ້ເປັນສາທາລະນະ! %s"
+
+#. translators: %1$s is a domain name.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2421
+msgid "Domain `%1$s` just failed is_usable_domain check as it is a subdomain of WordPress.com."
+msgstr "ໂດເມນ `%1$s` ບໍ່ຜ່ານການກວດສອບ is_usable_domain ເນື່ອງຈາກມັນເປັນໂດເມນຍ່ອຍ (subdomain) ຂອງ WordPress.com."
+
+#. translators: %1$s is a domain name.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2406
+msgid "Domain `%1$s` just failed is_usable_domain check as it uses an invalid top level domain."
+msgstr "ໂດເມນ `%1$s` ບໍ່ຜ່ານການກວດສອບ is_usable_domain ເນື່ອງຈາກມັນໃຊ້ໂດເມນລະດັບສູງສຸດ (top level domain) ທີ່ບໍ່ຖືກຕ້ອງ."
+
+#. translators: %1$s is a domain name.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2391
+msgid "Domain `%1$s` just failed is_usable_domain check as it is in the forbidden array."
+msgstr "ໂດເມນ `%1$s` ບໍ່ຜ່ານການກວດສອບ is_usable_domain ເນື່ອງຈາກມັນຢູ່ໃນລາຍການທີ່ຖືກຫ້າມ."
+
+#. translators: %1$s is a domain name.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2358
+msgid "Domain `%1$s` just failed is_usable_domain check as it is empty."
+msgstr "ໂດເມນ `%1$s` ບໍ່ຜ່ານການກວດສອບ is_usable_domain ເນື່ອງຈາກມັນວ່າງເປົ່າ."
+
+#. translators: Error description string.
+#: jetpack_vendor/automattic/jetpack-connection/src/class-manager.php:2723
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:225
+msgid "Error Details: %s"
+msgstr "ລາຍລະອຽດຂໍ້ຜິດພາດ: %s"
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:137
+msgid "You need to register your Jetpack before connecting it."
+msgstr "ທ່ານຕ້ອງລົງທະບຽນ Jetpack ກ່ອນທີ່ຈະເຊື່ອມຕໍ່."
+
+#: jetpack_vendor/automattic/jetpack-connection/src/class-tokens.php:132
+msgid "An administrator for this blog must set up the Jetpack connection."
+msgstr "ຜູ້ດູແລລະບົບຂອງບລັອກນີ້ຕ້ອງເປັນຜູ້ຕັ້ງຄ່າການເຊື່ອມຕໍ່ Jetpack."
+
+#. translators: %s is a command like "prompt"
+#: jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php:236
+msgid "%s is not a valid command."
+msgstr "%s ບໍ່ແມ່ນຄຳສັ່ງທີ່ຖືກຕ້ອງ."
+
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php:161
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php:162
+#: jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-product.php:1030
+msgid "My Jetpack"
+msgstr "Jetpack ຂອງຂ້ອຍ"
+
+#: jetpack-backup.php:174
+#: jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php:210
+msgid "Settings"
+msgstr "ການຕັ້ງຄ່າ"
