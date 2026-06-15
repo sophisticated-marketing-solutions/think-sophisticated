@@ -190,7 +190,7 @@ if ( ! function_exists( 'generate_menu_fallback' ) ) {
 					$search_item = apply_filters(
 						'generate_navigation_search_menu_item_output',
 						sprintf(
-							'<li class="search-item menu-item-align-right"><a aria-label="%1$s" href="#">%2$s</a></li>',
+							'<li class="search-item menu-item-align-right"><a aria-label="%1$s" rel="nofollow" href="#">%2$s</a></li>',
 							esc_attr__( 'Open Search Bar', 'generatepress' ),
 							generate_get_svg_icon( 'search', true ) // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- Escaped in function.
 						)
@@ -549,7 +549,7 @@ function generate_do_navigation_search_button() {
 	$search_item = apply_filters(
 		'generate_navigation_search_menu_item_output',
 		sprintf(
-			'<span class="menu-bar-item search-item"><a aria-label="%1$s" href="#">%2$s</a></span>',
+			'<span class="menu-bar-item search-item"><a aria-label="%1$s" rel="nofollow" href="#">%2$s</a></span>',
 			esc_attr__( 'Open Search Bar', 'generatepress' ),
 			generate_get_svg_icon( 'search', true ) // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- Escaped in function.
 		)
@@ -590,7 +590,7 @@ if ( ! function_exists( 'generate_menu_search_icon' ) ) {
 			$search_item = apply_filters(
 				'generate_navigation_search_menu_item_output',
 				sprintf(
-					'<li class="search-item menu-item-align-right"><a aria-label="%1$s" href="#">%2$s</a></li>',
+					'<li class="search-item menu-item-align-right"><a aria-label="%1$s" rel="nofollow" href="#">%2$s</a></li>',
 					esc_attr__( 'Open Search Bar', 'generatepress' ),
 					generate_get_svg_icon( 'search', true ) // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- Escaped in function.
 				)
@@ -632,7 +632,7 @@ if ( ! function_exists( 'generate_mobile_menu_search_icon' ) ) {
 		<div class="mobile-bar-items">
 			<?php do_action( 'generate_inside_mobile_menu_bar' ); ?>
 			<span class="search-item">
-				<a aria-label="<?php esc_attr_e( 'Open Search Bar', 'generatepress' ); ?>" href="#">
+				<a aria-label="<?php esc_attr_e( 'Open Search Bar', 'generatepress' ); ?>" rel="nofollow" href="#">
 					<?php generate_do_svg_icon( 'search', true ); ?>
 				</a>
 			</span>
