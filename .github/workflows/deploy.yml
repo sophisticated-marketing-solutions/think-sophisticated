@@ -21,7 +21,23 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             set -e
-            cd ${{ secrets.SITE_PATH }}
-            git fetch origin main
-            git reset --hard origin/main
-            echo "Deployed $(git rev-parse --short HEAD) at $(date)"
+            REPO="https://github.com/sophisticated-marketing-solutions/think-sophisticated.git"
+            SCRATCH="$HOME/deploy-scratch"
+            LIVE="/srv/htdocs/wp-content"
+
+            # 1. refresh scratch clone
+            if [ -d "$SCRATCH/.git" ]; then
+              git -C "$SCRATCH" fetch origin main
+              git -C "$SCRATCH" reset --hard origin/main
+            else
+              rm -rf "$SCRATCH"
+              git clone --depth 1 -b main "$REPO" "$SCRATCH"
+            fi
+
+            # 2. sync ONLY the dirs Okara touches into the live writable tree
+            rsync -a --delete "$SCRATCH/wp-content/themes/"     "$LIVE/themes/"
+            rsync -a --delete "$SCRATCH/wp-content/mu-plugins/" "$LIVE/mu-plugins/"
+            # 3. bust WP Rocket page cache (regenerates on next visit)
+            rm -rf "$LIVE/cache/wp-rocket"/* 2>/dev/null || true
+            echo "Cleared WP Rocket page cache"
+            echo "Deployed $(git -C "$SCRATCH" rev-parse --short HEAD) at $(date)"
