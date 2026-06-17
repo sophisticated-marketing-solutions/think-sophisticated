@@ -1,3 +1,15 @@
+/uploads/
+/cache/
+/upgrade/
+/upgrade-temp-backup/
+/ai1wm-backups/
+/wp-rocket-config/
+/plugins/
+advanced-cache.php
+object-cache.php
+index.php
+*.log
+
 # Logs
 *.log
 error_log
