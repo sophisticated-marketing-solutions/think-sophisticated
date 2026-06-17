@@ -35,8 +35,8 @@ jobs:
             fi
 
             # 2. sync ONLY the dirs Okara touches into the live writable tree
-            rsync -a --delete "$SCRATCH/wp-content/themes/"     "$LIVE/themes/"
-            rsync -a --delete "$SCRATCH/wp-content/mu-plugins/" "$LIVE/mu-plugins/"
+            rsync -a --omit-dir-times --delete "$SCRATCH/wp-content/themes/"     "$LIVE/themes/"
+            rsync -a --omit-dir-times --delete "$SCRATCH/wp-content/mu-plugins/" "$LIVE/mu-plugins/"
             # 3. bust WP Rocket page cache (regenerates on next visit)
             rm -rf "$LIVE/cache/wp-rocket"/* 2>/dev/null || true
             echo "Cleared WP Rocket page cache"
