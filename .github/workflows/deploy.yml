@@ -1,0 +1,27 @@
+name: Deploy to Bluehost
+
+on:
+  push:
+    branches: [ main ]
+
+concurrency:
+  group: deploy-prod
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy over SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            set -e
+            cd ${{ secrets.SITE_PATH }}
+            git fetch origin main
+            git reset --hard origin/main
+            echo "Deployed $(git rev-parse --short HEAD) at $(date)"
