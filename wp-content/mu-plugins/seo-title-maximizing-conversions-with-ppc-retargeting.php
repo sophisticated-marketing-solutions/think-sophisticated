@@ -5,6 +5,8 @@
  */
 add_filter( 'pre_get_document_title', 'ts_seo_title_ppc_retargeting', 9999 );
 add_filter( 'wpseo_title',            'ts_seo_wpseo_title_ppc_retargeting', 10, 1 );
+add_action( 'wp_head',                'ts_seo_meta_desc_ppc_retargeting', 1 );
+add_filter( 'wpseo_metadesc',         'ts_seo_wpseo_metadesc_ppc_retargeting', 10, 1 );
 
 function ts_seo_ppc_retargeting_slug_matches() {
 	if ( ! is_singular() ) {
@@ -29,4 +31,18 @@ function ts_seo_wpseo_title_ppc_retargeting( $title ) {
 		return $title;
 	}
 	return 'Maximizing Conversions with PPC Retargeting | Think Sophisticated';
+}
+
+function ts_seo_meta_desc_ppc_retargeting() {
+	if ( ! ts_seo_ppc_retargeting_slug_matches() ) {
+		return;
+	}
+	echo '<meta name="description" content="Learn proven PPC retargeting strategies to maximize conversions, reduce ad spend waste, and re-engage lost visitors. Expert insights from Think Sophisticated.">' . "\n";
+}
+
+function ts_seo_wpseo_metadesc_ppc_retargeting( $desc ) {
+	if ( ! ts_seo_ppc_retargeting_slug_matches() ) {
+		return $desc;
+	}
+	return 'Learn proven PPC retargeting strategies to maximize conversions, reduce ad spend waste, and re-engage lost visitors. Expert insights from Think Sophisticated.';
 }
