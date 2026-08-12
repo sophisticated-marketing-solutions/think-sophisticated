@@ -9,6 +9,7 @@ define( 'SEO_CHROME_COOKIES_SLUG', 'google-chrome-cookies-2024' );
 add_filter( 'wpseo_title', 'seo_meta_chrome_cookies_title', 10, 2 );
 add_filter( 'wpseo_metadesc', 'seo_meta_chrome_cookies_desc', 10, 2 );
 add_filter( 'wpseo_canonical', 'seo_meta_chrome_cookies_canonical', 10, 2 );
+add_filter( 'generate_meta_viewport', 'seo_meta_chrome_cookies_viewport', 999 );
 
 function seo_meta_chrome_cookies_is_target() {
 	return get_queried_object() instanceof WP_Post
@@ -37,4 +38,11 @@ function seo_meta_chrome_cookies_canonical( $canonical, $presentation ) {
 		return $canonical;
 	}
 	return 'https://thinksophisticated.com/google-chrome-cookies-2024/';
+}
+
+function seo_meta_chrome_cookies_viewport( $tag ) {
+	if ( ! seo_meta_chrome_cookies_is_target() ) {
+		return $tag;
+	}
+	return '<meta name="viewport" content="width=device-width, initial-scale=1">';
 }
